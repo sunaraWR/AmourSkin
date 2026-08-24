@@ -1,0 +1,859 @@
+product_id,product_name,category,age_group,skin_condition,flag,risk,reason
+mk06,Flawless Wear Foundation - Vanilla,foundation,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk06,Flawless Wear Foundation - Vanilla,foundation,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk06,Flawless Wear Foundation - Vanilla,foundation,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk06,Flawless Wear Foundation - Vanilla,foundation,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk06,Flawless Wear Foundation - Vanilla,foundation,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk06,Flawless Wear Foundation - Vanilla,foundation,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk06,Flawless Wear Foundation - Vanilla,foundation,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk06,Flawless Wear Foundation - Vanilla,foundation,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk06,Flawless Wear Foundation - Vanilla,foundation,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk06,Flawless Wear Foundation - Vanilla,foundation,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk06,Flawless Wear Foundation - Vanilla,foundation,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk06,Flawless Wear Foundation - Vanilla,foundation,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk06,Flawless Wear Foundation - Vanilla,foundation,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk06,Flawless Wear Foundation - Vanilla,foundation,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk06,Flawless Wear Foundation - Vanilla,foundation,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk06,Flawless Wear Foundation - Vanilla,foundation,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk06,Flawless Wear Foundation - Vanilla,foundation,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk06,Flawless Wear Foundation - Vanilla,foundation,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk07,Flawless Wear Foundation - Sand,foundation,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk07,Flawless Wear Foundation - Sand,foundation,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk07,Flawless Wear Foundation - Sand,foundation,teen,acne_prone,comedogenic_ingredient_present,elevated,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk07,Flawless Wear Foundation - Sand,foundation,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk07,Flawless Wear Foundation - Sand,foundation,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk07,Flawless Wear Foundation - Sand,foundation,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk07,Flawless Wear Foundation - Sand,foundation,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk07,Flawless Wear Foundation - Sand,foundation,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk07,Flawless Wear Foundation - Sand,foundation,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk07,Flawless Wear Foundation - Sand,foundation,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk07,Flawless Wear Foundation - Sand,foundation,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk07,Flawless Wear Foundation - Sand,foundation,adult,acne_prone,comedogenic_ingredient_present,elevated,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk07,Flawless Wear Foundation - Sand,foundation,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk07,Flawless Wear Foundation - Sand,foundation,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk07,Flawless Wear Foundation - Sand,foundation,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk07,Flawless Wear Foundation - Sand,foundation,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk07,Flawless Wear Foundation - Sand,foundation,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk07,Flawless Wear Foundation - Sand,foundation,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk07,Flawless Wear Foundation - Sand,foundation,mature,acne_prone,comedogenic_ingredient_present,elevated,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk07,Flawless Wear Foundation - Sand,foundation,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk07,Flawless Wear Foundation - Sand,foundation,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk07,Flawless Wear Foundation - Sand,foundation,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk07,Flawless Wear Foundation - Sand,foundation,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk09,Flawless Wear Foundation - Caramel,foundation,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk09,Flawless Wear Foundation - Caramel,foundation,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk09,Flawless Wear Foundation - Caramel,foundation,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk09,Flawless Wear Foundation - Caramel,foundation,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk09,Flawless Wear Foundation - Caramel,foundation,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk09,Flawless Wear Foundation - Caramel,foundation,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk09,Flawless Wear Foundation - Caramel,foundation,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk09,Flawless Wear Foundation - Caramel,foundation,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk09,Flawless Wear Foundation - Caramel,foundation,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk09,Flawless Wear Foundation - Caramel,foundation,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk09,Flawless Wear Foundation - Caramel,foundation,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk09,Flawless Wear Foundation - Caramel,foundation,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk09,Flawless Wear Foundation - Caramel,foundation,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk09,Flawless Wear Foundation - Caramel,foundation,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk09,Flawless Wear Foundation - Caramel,foundation,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk09,Flawless Wear Foundation - Caramel,foundation,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk09,Flawless Wear Foundation - Caramel,foundation,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk09,Flawless Wear Foundation - Caramel,foundation,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk10,Flawless Wear Foundation - Almond,foundation,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk10,Flawless Wear Foundation - Almond,foundation,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk10,Flawless Wear Foundation - Almond,foundation,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk10,Flawless Wear Foundation - Almond,foundation,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk10,Flawless Wear Foundation - Almond,foundation,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk10,Flawless Wear Foundation - Almond,foundation,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk10,Flawless Wear Foundation - Almond,foundation,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk10,Flawless Wear Foundation - Almond,foundation,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk10,Flawless Wear Foundation - Almond,foundation,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk10,Flawless Wear Foundation - Almond,foundation,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk10,Flawless Wear Foundation - Almond,foundation,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk10,Flawless Wear Foundation - Almond,foundation,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk10,Flawless Wear Foundation - Almond,foundation,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk10,Flawless Wear Foundation - Almond,foundation,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk10,Flawless Wear Foundation - Almond,foundation,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk10,Flawless Wear Foundation - Almond,foundation,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk10,Flawless Wear Foundation - Almond,foundation,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk10,Flawless Wear Foundation - Almond,foundation,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk12,Flawless Wear Foundation - Cocoa,foundation,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk12,Flawless Wear Foundation - Cocoa,foundation,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk12,Flawless Wear Foundation - Cocoa,foundation,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk12,Flawless Wear Foundation - Cocoa,foundation,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk12,Flawless Wear Foundation - Cocoa,foundation,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk12,Flawless Wear Foundation - Cocoa,foundation,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk12,Flawless Wear Foundation - Cocoa,foundation,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk12,Flawless Wear Foundation - Cocoa,foundation,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk12,Flawless Wear Foundation - Cocoa,foundation,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk12,Flawless Wear Foundation - Cocoa,foundation,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk12,Flawless Wear Foundation - Cocoa,foundation,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk12,Flawless Wear Foundation - Cocoa,foundation,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk12,Flawless Wear Foundation - Cocoa,foundation,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk12,Flawless Wear Foundation - Cocoa,foundation,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk12,Flawless Wear Foundation - Cocoa,foundation,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk12,Flawless Wear Foundation - Cocoa,foundation,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk12,Flawless Wear Foundation - Cocoa,foundation,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk12,Flawless Wear Foundation - Cocoa,foundation,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk14,Bright Eyes Concealer - Nude,concealer,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk14,Bright Eyes Concealer - Nude,concealer,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk14,Bright Eyes Concealer - Nude,concealer,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk14,Bright Eyes Concealer - Nude,concealer,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk14,Bright Eyes Concealer - Nude,concealer,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk14,Bright Eyes Concealer - Nude,concealer,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk14,Bright Eyes Concealer - Nude,concealer,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk14,Bright Eyes Concealer - Nude,concealer,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk14,Bright Eyes Concealer - Nude,concealer,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk14,Bright Eyes Concealer - Nude,concealer,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk14,Bright Eyes Concealer - Nude,concealer,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk14,Bright Eyes Concealer - Nude,concealer,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk14,Bright Eyes Concealer - Nude,concealer,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk14,Bright Eyes Concealer - Nude,concealer,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk14,Bright Eyes Concealer - Nude,concealer,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk14,Bright Eyes Concealer - Nude,concealer,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk14,Bright Eyes Concealer - Nude,concealer,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk14,Bright Eyes Concealer - Nude,concealer,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk15,Bright Eyes Concealer - Beige,concealer,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk15,Bright Eyes Concealer - Beige,concealer,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk15,Bright Eyes Concealer - Beige,concealer,teen,acne_prone,comedogenic_ingredient_present,elevated,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk15,Bright Eyes Concealer - Beige,concealer,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk15,Bright Eyes Concealer - Beige,concealer,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk15,Bright Eyes Concealer - Beige,concealer,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk15,Bright Eyes Concealer - Beige,concealer,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk15,Bright Eyes Concealer - Beige,concealer,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk15,Bright Eyes Concealer - Beige,concealer,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk15,Bright Eyes Concealer - Beige,concealer,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk15,Bright Eyes Concealer - Beige,concealer,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk15,Bright Eyes Concealer - Beige,concealer,adult,acne_prone,comedogenic_ingredient_present,elevated,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk15,Bright Eyes Concealer - Beige,concealer,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk15,Bright Eyes Concealer - Beige,concealer,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk15,Bright Eyes Concealer - Beige,concealer,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk15,Bright Eyes Concealer - Beige,concealer,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk15,Bright Eyes Concealer - Beige,concealer,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk15,Bright Eyes Concealer - Beige,concealer,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk15,Bright Eyes Concealer - Beige,concealer,mature,acne_prone,comedogenic_ingredient_present,elevated,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk15,Bright Eyes Concealer - Beige,concealer,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk15,Bright Eyes Concealer - Beige,concealer,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk15,Bright Eyes Concealer - Beige,concealer,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk15,Bright Eyes Concealer - Beige,concealer,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk17,Bright Eyes Concealer - Mocha,concealer,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk17,Bright Eyes Concealer - Mocha,concealer,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk17,Bright Eyes Concealer - Mocha,concealer,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk17,Bright Eyes Concealer - Mocha,concealer,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk17,Bright Eyes Concealer - Mocha,concealer,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk17,Bright Eyes Concealer - Mocha,concealer,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk17,Bright Eyes Concealer - Mocha,concealer,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk17,Bright Eyes Concealer - Mocha,concealer,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk17,Bright Eyes Concealer - Mocha,concealer,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk17,Bright Eyes Concealer - Mocha,concealer,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk17,Bright Eyes Concealer - Mocha,concealer,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk17,Bright Eyes Concealer - Mocha,concealer,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk17,Bright Eyes Concealer - Mocha,concealer,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk17,Bright Eyes Concealer - Mocha,concealer,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk17,Bright Eyes Concealer - Mocha,concealer,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk17,Bright Eyes Concealer - Mocha,concealer,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk17,Bright Eyes Concealer - Mocha,concealer,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk17,Bright Eyes Concealer - Mocha,concealer,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk18,Bright Eyes Concealer - Espresso,concealer,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk18,Bright Eyes Concealer - Espresso,concealer,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk18,Bright Eyes Concealer - Espresso,concealer,teen,acne_prone,comedogenic_ingredient_present,elevated,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk18,Bright Eyes Concealer - Espresso,concealer,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk18,Bright Eyes Concealer - Espresso,concealer,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk18,Bright Eyes Concealer - Espresso,concealer,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk18,Bright Eyes Concealer - Espresso,concealer,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk18,Bright Eyes Concealer - Espresso,concealer,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk18,Bright Eyes Concealer - Espresso,concealer,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk18,Bright Eyes Concealer - Espresso,concealer,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk18,Bright Eyes Concealer - Espresso,concealer,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk18,Bright Eyes Concealer - Espresso,concealer,adult,acne_prone,comedogenic_ingredient_present,elevated,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk18,Bright Eyes Concealer - Espresso,concealer,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk18,Bright Eyes Concealer - Espresso,concealer,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk18,Bright Eyes Concealer - Espresso,concealer,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk18,Bright Eyes Concealer - Espresso,concealer,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk18,Bright Eyes Concealer - Espresso,concealer,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk18,Bright Eyes Concealer - Espresso,concealer,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk18,Bright Eyes Concealer - Espresso,concealer,mature,acne_prone,comedogenic_ingredient_present,elevated,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk18,Bright Eyes Concealer - Espresso,concealer,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk18,Bright Eyes Concealer - Espresso,concealer,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk18,Bright Eyes Concealer - Espresso,concealer,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk18,Bright Eyes Concealer - Espresso,concealer,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk20,Soft Focus Pressed Powder - Light,powder,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk20,Soft Focus Pressed Powder - Light,powder,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk20,Soft Focus Pressed Powder - Light,powder,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk20,Soft Focus Pressed Powder - Light,powder,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk20,Soft Focus Pressed Powder - Light,powder,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk21,Soft Focus Pressed Powder - Medium,powder,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk21,Soft Focus Pressed Powder - Medium,powder,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk21,Soft Focus Pressed Powder - Medium,powder,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk21,Soft Focus Pressed Powder - Medium,powder,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk21,Soft Focus Pressed Powder - Medium,powder,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk21,Soft Focus Pressed Powder - Medium,powder,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk21,Soft Focus Pressed Powder - Medium,powder,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk21,Soft Focus Pressed Powder - Medium,powder,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk21,Soft Focus Pressed Powder - Medium,powder,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk21,Soft Focus Pressed Powder - Medium,powder,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk21,Soft Focus Pressed Powder - Medium,powder,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk21,Soft Focus Pressed Powder - Medium,powder,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk21,Soft Focus Pressed Powder - Medium,powder,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk21,Soft Focus Pressed Powder - Medium,powder,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk21,Soft Focus Pressed Powder - Medium,powder,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk21,Soft Focus Pressed Powder - Medium,powder,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk21,Soft Focus Pressed Powder - Medium,powder,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk21,Soft Focus Pressed Powder - Medium,powder,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk21,Soft Focus Pressed Powder - Medium,powder,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk21,Soft Focus Pressed Powder - Medium,powder,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk21,Soft Focus Pressed Powder - Medium,powder,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk21,Soft Focus Pressed Powder - Medium,powder,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk21,Soft Focus Pressed Powder - Medium,powder,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk24,Hydrating Glow Primer,primer,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk24,Hydrating Glow Primer,primer,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk24,Hydrating Glow Primer,primer,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk24,Hydrating Glow Primer,primer,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk24,Hydrating Glow Primer,primer,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk24,Hydrating Glow Primer,primer,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk24,Hydrating Glow Primer,primer,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk24,Hydrating Glow Primer,primer,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk24,Hydrating Glow Primer,primer,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk24,Hydrating Glow Primer,primer,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk24,Hydrating Glow Primer,primer,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk24,Hydrating Glow Primer,primer,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk24,Hydrating Glow Primer,primer,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk24,Hydrating Glow Primer,primer,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk24,Hydrating Glow Primer,primer,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk24,Hydrating Glow Primer,primer,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk24,Hydrating Glow Primer,primer,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk24,Hydrating Glow Primer,primer,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk25,Matte Perfecting Primer,primer,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk25,Matte Perfecting Primer,primer,teen,sensitive,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk25,Matte Perfecting Primer,primer,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk25,Matte Perfecting Primer,primer,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk25,Matte Perfecting Primer,primer,teen,eczema,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk25,Matte Perfecting Primer,primer,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk25,Matte Perfecting Primer,primer,teen,rosacea,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk25,Matte Perfecting Primer,primer,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk25,Matte Perfecting Primer,primer,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk25,Matte Perfecting Primer,primer,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk25,Matte Perfecting Primer,primer,adult,sensitive,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk25,Matte Perfecting Primer,primer,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk25,Matte Perfecting Primer,primer,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk25,Matte Perfecting Primer,primer,adult,eczema,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk25,Matte Perfecting Primer,primer,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk25,Matte Perfecting Primer,primer,adult,rosacea,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk25,Matte Perfecting Primer,primer,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk25,Matte Perfecting Primer,primer,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk25,Matte Perfecting Primer,primer,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk25,Matte Perfecting Primer,primer,mature,sensitive,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk25,Matte Perfecting Primer,primer,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk25,Matte Perfecting Primer,primer,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk25,Matte Perfecting Primer,primer,mature,eczema,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk25,Matte Perfecting Primer,primer,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk25,Matte Perfecting Primer,primer,mature,rosacea,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk25,Matte Perfecting Primer,primer,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk25,Matte Perfecting Primer,primer,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk26,Cheek Tint Blush - Peony Pink,blush,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk26,Cheek Tint Blush - Peony Pink,blush,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk26,Cheek Tint Blush - Peony Pink,blush,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk26,Cheek Tint Blush - Peony Pink,blush,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk26,Cheek Tint Blush - Peony Pink,blush,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk27,Cheek Tint Blush - Coral Sunset,blush,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk27,Cheek Tint Blush - Coral Sunset,blush,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk27,Cheek Tint Blush - Coral Sunset,blush,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk27,Cheek Tint Blush - Coral Sunset,blush,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk27,Cheek Tint Blush - Coral Sunset,blush,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk27,Cheek Tint Blush - Coral Sunset,blush,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk27,Cheek Tint Blush - Coral Sunset,blush,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk27,Cheek Tint Blush - Coral Sunset,blush,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk27,Cheek Tint Blush - Coral Sunset,blush,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk27,Cheek Tint Blush - Coral Sunset,blush,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk27,Cheek Tint Blush - Coral Sunset,blush,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk27,Cheek Tint Blush - Coral Sunset,blush,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk27,Cheek Tint Blush - Coral Sunset,blush,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk27,Cheek Tint Blush - Coral Sunset,blush,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk27,Cheek Tint Blush - Coral Sunset,blush,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk27,Cheek Tint Blush - Coral Sunset,blush,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk27,Cheek Tint Blush - Coral Sunset,blush,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk27,Cheek Tint Blush - Coral Sunset,blush,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk27,Cheek Tint Blush - Coral Sunset,blush,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk27,Cheek Tint Blush - Coral Sunset,blush,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk27,Cheek Tint Blush - Coral Sunset,blush,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk27,Cheek Tint Blush - Coral Sunset,blush,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk27,Cheek Tint Blush - Coral Sunset,blush,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk28,Cheek Tint Blush - Berry Flush,blush,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk28,Cheek Tint Blush - Berry Flush,blush,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk28,Cheek Tint Blush - Berry Flush,blush,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk28,Cheek Tint Blush - Berry Flush,blush,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk28,Cheek Tint Blush - Berry Flush,blush,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk28,Cheek Tint Blush - Berry Flush,blush,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk28,Cheek Tint Blush - Berry Flush,blush,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk28,Cheek Tint Blush - Berry Flush,blush,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk28,Cheek Tint Blush - Berry Flush,blush,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk28,Cheek Tint Blush - Berry Flush,blush,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk28,Cheek Tint Blush - Berry Flush,blush,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk28,Cheek Tint Blush - Berry Flush,blush,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk28,Cheek Tint Blush - Berry Flush,blush,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk28,Cheek Tint Blush - Berry Flush,blush,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk28,Cheek Tint Blush - Berry Flush,blush,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk28,Cheek Tint Blush - Berry Flush,blush,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk28,Cheek Tint Blush - Berry Flush,blush,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk28,Cheek Tint Blush - Berry Flush,blush,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk28,Cheek Tint Blush - Berry Flush,blush,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk28,Cheek Tint Blush - Berry Flush,blush,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk28,Cheek Tint Blush - Berry Flush,blush,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk28,Cheek Tint Blush - Berry Flush,blush,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk28,Cheek Tint Blush - Berry Flush,blush,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk29,Cheek Tint Blush - Rose Nude,blush,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk29,Cheek Tint Blush - Rose Nude,blush,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk29,Cheek Tint Blush - Rose Nude,blush,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk29,Cheek Tint Blush - Rose Nude,blush,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk29,Cheek Tint Blush - Rose Nude,blush,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk30,Cheek Tint Blush - Terracotta,blush,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk30,Cheek Tint Blush - Terracotta,blush,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk30,Cheek Tint Blush - Terracotta,blush,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk30,Cheek Tint Blush - Terracotta,blush,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk30,Cheek Tint Blush - Terracotta,blush,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk30,Cheek Tint Blush - Terracotta,blush,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk30,Cheek Tint Blush - Terracotta,blush,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk30,Cheek Tint Blush - Terracotta,blush,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk30,Cheek Tint Blush - Terracotta,blush,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk30,Cheek Tint Blush - Terracotta,blush,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk30,Cheek Tint Blush - Terracotta,blush,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk30,Cheek Tint Blush - Terracotta,blush,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk30,Cheek Tint Blush - Terracotta,blush,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk30,Cheek Tint Blush - Terracotta,blush,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk30,Cheek Tint Blush - Terracotta,blush,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk30,Cheek Tint Blush - Terracotta,blush,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk30,Cheek Tint Blush - Terracotta,blush,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk30,Cheek Tint Blush - Terracotta,blush,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk30,Cheek Tint Blush - Terracotta,blush,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk30,Cheek Tint Blush - Terracotta,blush,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk30,Cheek Tint Blush - Terracotta,blush,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk30,Cheek Tint Blush - Terracotta,blush,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk30,Cheek Tint Blush - Terracotta,blush,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk32,Bronze Glow Bronzer - Sunkissed Medium,bronzer,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk32,Bronze Glow Bronzer - Sunkissed Medium,bronzer,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk32,Bronze Glow Bronzer - Sunkissed Medium,bronzer,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk32,Bronze Glow Bronzer - Sunkissed Medium,bronzer,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk32,Bronze Glow Bronzer - Sunkissed Medium,bronzer,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk32,Bronze Glow Bronzer - Sunkissed Medium,bronzer,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk32,Bronze Glow Bronzer - Sunkissed Medium,bronzer,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk32,Bronze Glow Bronzer - Sunkissed Medium,bronzer,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk32,Bronze Glow Bronzer - Sunkissed Medium,bronzer,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk32,Bronze Glow Bronzer - Sunkissed Medium,bronzer,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk32,Bronze Glow Bronzer - Sunkissed Medium,bronzer,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk32,Bronze Glow Bronzer - Sunkissed Medium,bronzer,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk32,Bronze Glow Bronzer - Sunkissed Medium,bronzer,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk32,Bronze Glow Bronzer - Sunkissed Medium,bronzer,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk32,Bronze Glow Bronzer - Sunkissed Medium,bronzer,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk32,Bronze Glow Bronzer - Sunkissed Medium,bronzer,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk32,Bronze Glow Bronzer - Sunkissed Medium,bronzer,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk32,Bronze Glow Bronzer - Sunkissed Medium,bronzer,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk33,Bronze Glow Bronzer - Sunkissed Deep,bronzer,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk33,Bronze Glow Bronzer - Sunkissed Deep,bronzer,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk33,Bronze Glow Bronzer - Sunkissed Deep,bronzer,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk33,Bronze Glow Bronzer - Sunkissed Deep,bronzer,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk33,Bronze Glow Bronzer - Sunkissed Deep,bronzer,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk33,Bronze Glow Bronzer - Sunkissed Deep,bronzer,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk33,Bronze Glow Bronzer - Sunkissed Deep,bronzer,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk33,Bronze Glow Bronzer - Sunkissed Deep,bronzer,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk33,Bronze Glow Bronzer - Sunkissed Deep,bronzer,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk33,Bronze Glow Bronzer - Sunkissed Deep,bronzer,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk33,Bronze Glow Bronzer - Sunkissed Deep,bronzer,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk33,Bronze Glow Bronzer - Sunkissed Deep,bronzer,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk33,Bronze Glow Bronzer - Sunkissed Deep,bronzer,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk33,Bronze Glow Bronzer - Sunkissed Deep,bronzer,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk33,Bronze Glow Bronzer - Sunkissed Deep,bronzer,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk33,Bronze Glow Bronzer - Sunkissed Deep,bronzer,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk33,Bronze Glow Bronzer - Sunkissed Deep,bronzer,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk33,Bronze Glow Bronzer - Sunkissed Deep,bronzer,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk33,Bronze Glow Bronzer - Sunkissed Deep,bronzer,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk33,Bronze Glow Bronzer - Sunkissed Deep,bronzer,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk33,Bronze Glow Bronzer - Sunkissed Deep,bronzer,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk33,Bronze Glow Bronzer - Sunkissed Deep,bronzer,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk33,Bronze Glow Bronzer - Sunkissed Deep,bronzer,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk35,Luminous Highlighter - Rose Gold Glow,highlighter,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk35,Luminous Highlighter - Rose Gold Glow,highlighter,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk35,Luminous Highlighter - Rose Gold Glow,highlighter,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk35,Luminous Highlighter - Rose Gold Glow,highlighter,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk35,Luminous Highlighter - Rose Gold Glow,highlighter,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk35,Luminous Highlighter - Rose Gold Glow,highlighter,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk35,Luminous Highlighter - Rose Gold Glow,highlighter,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk35,Luminous Highlighter - Rose Gold Glow,highlighter,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk35,Luminous Highlighter - Rose Gold Glow,highlighter,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk35,Luminous Highlighter - Rose Gold Glow,highlighter,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk35,Luminous Highlighter - Rose Gold Glow,highlighter,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk35,Luminous Highlighter - Rose Gold Glow,highlighter,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk35,Luminous Highlighter - Rose Gold Glow,highlighter,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk35,Luminous Highlighter - Rose Gold Glow,highlighter,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk35,Luminous Highlighter - Rose Gold Glow,highlighter,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk35,Luminous Highlighter - Rose Gold Glow,highlighter,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk35,Luminous Highlighter - Rose Gold Glow,highlighter,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk35,Luminous Highlighter - Rose Gold Glow,highlighter,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk36,Luminous Highlighter - Starlight Glow,highlighter,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk36,Luminous Highlighter - Starlight Glow,highlighter,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk36,Luminous Highlighter - Starlight Glow,highlighter,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk36,Luminous Highlighter - Starlight Glow,highlighter,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk36,Luminous Highlighter - Starlight Glow,highlighter,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk36,Luminous Highlighter - Starlight Glow,highlighter,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk36,Luminous Highlighter - Starlight Glow,highlighter,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk36,Luminous Highlighter - Starlight Glow,highlighter,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk36,Luminous Highlighter - Starlight Glow,highlighter,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk36,Luminous Highlighter - Starlight Glow,highlighter,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk36,Luminous Highlighter - Starlight Glow,highlighter,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk36,Luminous Highlighter - Starlight Glow,highlighter,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk36,Luminous Highlighter - Starlight Glow,highlighter,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk36,Luminous Highlighter - Starlight Glow,highlighter,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk36,Luminous Highlighter - Starlight Glow,highlighter,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk36,Luminous Highlighter - Starlight Glow,highlighter,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk36,Luminous Highlighter - Starlight Glow,highlighter,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk36,Luminous Highlighter - Starlight Glow,highlighter,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk36,Luminous Highlighter - Starlight Glow,highlighter,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk36,Luminous Highlighter - Starlight Glow,highlighter,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk36,Luminous Highlighter - Starlight Glow,highlighter,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk36,Luminous Highlighter - Starlight Glow,highlighter,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk36,Luminous Highlighter - Starlight Glow,highlighter,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk37,Velvet Matte Lipstick - Nude Whisper,lipstick,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk37,Velvet Matte Lipstick - Nude Whisper,lipstick,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk37,Velvet Matte Lipstick - Nude Whisper,lipstick,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk37,Velvet Matte Lipstick - Nude Whisper,lipstick,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk37,Velvet Matte Lipstick - Nude Whisper,lipstick,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk38,Velvet Matte Lipstick - Rosewood,lipstick,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk38,Velvet Matte Lipstick - Rosewood,lipstick,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk38,Velvet Matte Lipstick - Rosewood,lipstick,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk38,Velvet Matte Lipstick - Rosewood,lipstick,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk38,Velvet Matte Lipstick - Rosewood,lipstick,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk38,Velvet Matte Lipstick - Rosewood,lipstick,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk38,Velvet Matte Lipstick - Rosewood,lipstick,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk38,Velvet Matte Lipstick - Rosewood,lipstick,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk38,Velvet Matte Lipstick - Rosewood,lipstick,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk38,Velvet Matte Lipstick - Rosewood,lipstick,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk38,Velvet Matte Lipstick - Rosewood,lipstick,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk38,Velvet Matte Lipstick - Rosewood,lipstick,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk38,Velvet Matte Lipstick - Rosewood,lipstick,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk38,Velvet Matte Lipstick - Rosewood,lipstick,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk38,Velvet Matte Lipstick - Rosewood,lipstick,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk38,Velvet Matte Lipstick - Rosewood,lipstick,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk38,Velvet Matte Lipstick - Rosewood,lipstick,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk38,Velvet Matte Lipstick - Rosewood,lipstick,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk38,Velvet Matte Lipstick - Rosewood,lipstick,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk38,Velvet Matte Lipstick - Rosewood,lipstick,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk38,Velvet Matte Lipstick - Rosewood,lipstick,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk38,Velvet Matte Lipstick - Rosewood,lipstick,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk38,Velvet Matte Lipstick - Rosewood,lipstick,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk39,Velvet Matte Lipstick - Classic Red,lipstick,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk39,Velvet Matte Lipstick - Classic Red,lipstick,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk39,Velvet Matte Lipstick - Classic Red,lipstick,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk39,Velvet Matte Lipstick - Classic Red,lipstick,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk39,Velvet Matte Lipstick - Classic Red,lipstick,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk39,Velvet Matte Lipstick - Classic Red,lipstick,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk39,Velvet Matte Lipstick - Classic Red,lipstick,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk39,Velvet Matte Lipstick - Classic Red,lipstick,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk39,Velvet Matte Lipstick - Classic Red,lipstick,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk39,Velvet Matte Lipstick - Classic Red,lipstick,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk39,Velvet Matte Lipstick - Classic Red,lipstick,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk39,Velvet Matte Lipstick - Classic Red,lipstick,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk39,Velvet Matte Lipstick - Classic Red,lipstick,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk39,Velvet Matte Lipstick - Classic Red,lipstick,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk39,Velvet Matte Lipstick - Classic Red,lipstick,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk39,Velvet Matte Lipstick - Classic Red,lipstick,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk39,Velvet Matte Lipstick - Classic Red,lipstick,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk39,Velvet Matte Lipstick - Classic Red,lipstick,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk39,Velvet Matte Lipstick - Classic Red,lipstick,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk39,Velvet Matte Lipstick - Classic Red,lipstick,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk39,Velvet Matte Lipstick - Classic Red,lipstick,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk39,Velvet Matte Lipstick - Classic Red,lipstick,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk39,Velvet Matte Lipstick - Classic Red,lipstick,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk40,Velvet Matte Lipstick - Berry Kiss,lipstick,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk40,Velvet Matte Lipstick - Berry Kiss,lipstick,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk40,Velvet Matte Lipstick - Berry Kiss,lipstick,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk40,Velvet Matte Lipstick - Berry Kiss,lipstick,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk40,Velvet Matte Lipstick - Berry Kiss,lipstick,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk41,Velvet Matte Lipstick - Coral Crush,lipstick,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk41,Velvet Matte Lipstick - Coral Crush,lipstick,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk41,Velvet Matte Lipstick - Coral Crush,lipstick,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk41,Velvet Matte Lipstick - Coral Crush,lipstick,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk41,Velvet Matte Lipstick - Coral Crush,lipstick,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk41,Velvet Matte Lipstick - Coral Crush,lipstick,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk41,Velvet Matte Lipstick - Coral Crush,lipstick,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk41,Velvet Matte Lipstick - Coral Crush,lipstick,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk41,Velvet Matte Lipstick - Coral Crush,lipstick,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk41,Velvet Matte Lipstick - Coral Crush,lipstick,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk41,Velvet Matte Lipstick - Coral Crush,lipstick,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk41,Velvet Matte Lipstick - Coral Crush,lipstick,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk41,Velvet Matte Lipstick - Coral Crush,lipstick,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk41,Velvet Matte Lipstick - Coral Crush,lipstick,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk41,Velvet Matte Lipstick - Coral Crush,lipstick,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk41,Velvet Matte Lipstick - Coral Crush,lipstick,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk41,Velvet Matte Lipstick - Coral Crush,lipstick,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk41,Velvet Matte Lipstick - Coral Crush,lipstick,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk41,Velvet Matte Lipstick - Coral Crush,lipstick,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk41,Velvet Matte Lipstick - Coral Crush,lipstick,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk41,Velvet Matte Lipstick - Coral Crush,lipstick,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk41,Velvet Matte Lipstick - Coral Crush,lipstick,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk41,Velvet Matte Lipstick - Coral Crush,lipstick,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk42,Velvet Matte Lipstick - Mauve Muse,lipstick,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk42,Velvet Matte Lipstick - Mauve Muse,lipstick,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk42,Velvet Matte Lipstick - Mauve Muse,lipstick,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk42,Velvet Matte Lipstick - Mauve Muse,lipstick,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk42,Velvet Matte Lipstick - Mauve Muse,lipstick,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk42,Velvet Matte Lipstick - Mauve Muse,lipstick,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk42,Velvet Matte Lipstick - Mauve Muse,lipstick,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk42,Velvet Matte Lipstick - Mauve Muse,lipstick,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk42,Velvet Matte Lipstick - Mauve Muse,lipstick,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk42,Velvet Matte Lipstick - Mauve Muse,lipstick,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk42,Velvet Matte Lipstick - Mauve Muse,lipstick,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk42,Velvet Matte Lipstick - Mauve Muse,lipstick,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk42,Velvet Matte Lipstick - Mauve Muse,lipstick,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk42,Velvet Matte Lipstick - Mauve Muse,lipstick,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk42,Velvet Matte Lipstick - Mauve Muse,lipstick,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk42,Velvet Matte Lipstick - Mauve Muse,lipstick,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk42,Velvet Matte Lipstick - Mauve Muse,lipstick,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk42,Velvet Matte Lipstick - Mauve Muse,lipstick,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk42,Velvet Matte Lipstick - Mauve Muse,lipstick,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk42,Velvet Matte Lipstick - Mauve Muse,lipstick,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk42,Velvet Matte Lipstick - Mauve Muse,lipstick,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk42,Velvet Matte Lipstick - Mauve Muse,lipstick,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk42,Velvet Matte Lipstick - Mauve Muse,lipstick,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk43,Velvet Matte Lipstick - Brick Red,lipstick,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk43,Velvet Matte Lipstick - Brick Red,lipstick,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk43,Velvet Matte Lipstick - Brick Red,lipstick,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk43,Velvet Matte Lipstick - Brick Red,lipstick,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk43,Velvet Matte Lipstick - Brick Red,lipstick,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk44,Velvet Matte Lipstick - Cinnamon Spice,lipstick,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk44,Velvet Matte Lipstick - Cinnamon Spice,lipstick,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk44,Velvet Matte Lipstick - Cinnamon Spice,lipstick,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk44,Velvet Matte Lipstick - Cinnamon Spice,lipstick,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk44,Velvet Matte Lipstick - Cinnamon Spice,lipstick,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk44,Velvet Matte Lipstick - Cinnamon Spice,lipstick,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk44,Velvet Matte Lipstick - Cinnamon Spice,lipstick,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk44,Velvet Matte Lipstick - Cinnamon Spice,lipstick,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk44,Velvet Matte Lipstick - Cinnamon Spice,lipstick,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk44,Velvet Matte Lipstick - Cinnamon Spice,lipstick,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk44,Velvet Matte Lipstick - Cinnamon Spice,lipstick,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk44,Velvet Matte Lipstick - Cinnamon Spice,lipstick,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk44,Velvet Matte Lipstick - Cinnamon Spice,lipstick,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk44,Velvet Matte Lipstick - Cinnamon Spice,lipstick,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk44,Velvet Matte Lipstick - Cinnamon Spice,lipstick,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk44,Velvet Matte Lipstick - Cinnamon Spice,lipstick,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk44,Velvet Matte Lipstick - Cinnamon Spice,lipstick,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk44,Velvet Matte Lipstick - Cinnamon Spice,lipstick,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk44,Velvet Matte Lipstick - Cinnamon Spice,lipstick,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk44,Velvet Matte Lipstick - Cinnamon Spice,lipstick,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk44,Velvet Matte Lipstick - Cinnamon Spice,lipstick,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk44,Velvet Matte Lipstick - Cinnamon Spice,lipstick,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk44,Velvet Matte Lipstick - Cinnamon Spice,lipstick,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk45,High Shine Lip Gloss - Clear Shine,lip_gloss,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk45,High Shine Lip Gloss - Clear Shine,lip_gloss,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk45,High Shine Lip Gloss - Clear Shine,lip_gloss,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk45,High Shine Lip Gloss - Clear Shine,lip_gloss,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk45,High Shine Lip Gloss - Clear Shine,lip_gloss,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk46,High Shine Lip Gloss - Pink Flush,lip_gloss,teen,sensitive,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk46,High Shine Lip Gloss - Pink Flush,lip_gloss,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk46,High Shine Lip Gloss - Pink Flush,lip_gloss,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk46,High Shine Lip Gloss - Pink Flush,lip_gloss,teen,eczema,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk46,High Shine Lip Gloss - Pink Flush,lip_gloss,teen,rosacea,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk46,High Shine Lip Gloss - Pink Flush,lip_gloss,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk46,High Shine Lip Gloss - Pink Flush,lip_gloss,adult,sensitive,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk46,High Shine Lip Gloss - Pink Flush,lip_gloss,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk46,High Shine Lip Gloss - Pink Flush,lip_gloss,adult,eczema,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk46,High Shine Lip Gloss - Pink Flush,lip_gloss,adult,rosacea,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk46,High Shine Lip Gloss - Pink Flush,lip_gloss,mature,sensitive,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk46,High Shine Lip Gloss - Pink Flush,lip_gloss,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk46,High Shine Lip Gloss - Pink Flush,lip_gloss,mature,eczema,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk46,High Shine Lip Gloss - Pink Flush,lip_gloss,mature,rosacea,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,teen,sensitive,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,teen,eczema,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,teen,rosacea,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,adult,sensitive,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,adult,eczema,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,adult,rosacea,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,mature,sensitive,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,mature,eczema,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,mature,rosacea,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk47,High Shine Lip Gloss - Peach Glaze,lip_gloss,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk48,High Shine Lip Gloss - Berry Gloss,lip_gloss,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk48,High Shine Lip Gloss - Berry Gloss,lip_gloss,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk48,High Shine Lip Gloss - Berry Gloss,lip_gloss,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk48,High Shine Lip Gloss - Berry Gloss,lip_gloss,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk48,High Shine Lip Gloss - Berry Gloss,lip_gloss,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk49,Precision Lip Liner - Nude Line,lip_liner,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk49,Precision Lip Liner - Nude Line,lip_liner,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk49,Precision Lip Liner - Nude Line,lip_liner,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk49,Precision Lip Liner - Nude Line,lip_liner,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk49,Precision Lip Liner - Nude Line,lip_liner,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk50,Precision Lip Liner - Rose Line,lip_liner,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk50,Precision Lip Liner - Rose Line,lip_liner,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk50,Precision Lip Liner - Rose Line,lip_liner,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk50,Precision Lip Liner - Rose Line,lip_liner,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk50,Precision Lip Liner - Rose Line,lip_liner,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk50,Precision Lip Liner - Rose Line,lip_liner,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk50,Precision Lip Liner - Rose Line,lip_liner,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk50,Precision Lip Liner - Rose Line,lip_liner,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk50,Precision Lip Liner - Rose Line,lip_liner,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk50,Precision Lip Liner - Rose Line,lip_liner,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk50,Precision Lip Liner - Rose Line,lip_liner,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk50,Precision Lip Liner - Rose Line,lip_liner,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk50,Precision Lip Liner - Rose Line,lip_liner,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk50,Precision Lip Liner - Rose Line,lip_liner,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk50,Precision Lip Liner - Rose Line,lip_liner,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk50,Precision Lip Liner - Rose Line,lip_liner,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk50,Precision Lip Liner - Rose Line,lip_liner,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk50,Precision Lip Liner - Rose Line,lip_liner,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk50,Precision Lip Liner - Rose Line,lip_liner,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk50,Precision Lip Liner - Rose Line,lip_liner,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk50,Precision Lip Liner - Rose Line,lip_liner,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk50,Precision Lip Liner - Rose Line,lip_liner,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk50,Precision Lip Liner - Rose Line,lip_liner,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk51,Precision Lip Liner - Red Line,lip_liner,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk51,Precision Lip Liner - Red Line,lip_liner,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk51,Precision Lip Liner - Red Line,lip_liner,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk51,Precision Lip Liner - Red Line,lip_liner,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk51,Precision Lip Liner - Red Line,lip_liner,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk51,Precision Lip Liner - Red Line,lip_liner,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk51,Precision Lip Liner - Red Line,lip_liner,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk51,Precision Lip Liner - Red Line,lip_liner,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk51,Precision Lip Liner - Red Line,lip_liner,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk51,Precision Lip Liner - Red Line,lip_liner,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk51,Precision Lip Liner - Red Line,lip_liner,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk51,Precision Lip Liner - Red Line,lip_liner,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk51,Precision Lip Liner - Red Line,lip_liner,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk51,Precision Lip Liner - Red Line,lip_liner,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk51,Precision Lip Liner - Red Line,lip_liner,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk51,Precision Lip Liner - Red Line,lip_liner,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk51,Precision Lip Liner - Red Line,lip_liner,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk51,Precision Lip Liner - Red Line,lip_liner,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk51,Precision Lip Liner - Red Line,lip_liner,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk51,Precision Lip Liner - Red Line,lip_liner,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk51,Precision Lip Liner - Red Line,lip_liner,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk51,Precision Lip Liner - Red Line,lip_liner,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk51,Precision Lip Liner - Red Line,lip_liner,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk53,Lengthening Mascara,mascara,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk53,Lengthening Mascara,mascara,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk53,Lengthening Mascara,mascara,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk53,Lengthening Mascara,mascara,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk53,Lengthening Mascara,mascara,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk53,Lengthening Mascara,mascara,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk53,Lengthening Mascara,mascara,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk53,Lengthening Mascara,mascara,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk53,Lengthening Mascara,mascara,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk53,Lengthening Mascara,mascara,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk53,Lengthening Mascara,mascara,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk53,Lengthening Mascara,mascara,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk53,Lengthening Mascara,mascara,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk53,Lengthening Mascara,mascara,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk53,Lengthening Mascara,mascara,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk53,Lengthening Mascara,mascara,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk53,Lengthening Mascara,mascara,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk53,Lengthening Mascara,mascara,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk54,Waterproof Mascara,mascara,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk54,Waterproof Mascara,mascara,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk54,Waterproof Mascara,mascara,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk54,Waterproof Mascara,mascara,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk54,Waterproof Mascara,mascara,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk54,Waterproof Mascara,mascara,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk54,Waterproof Mascara,mascara,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk54,Waterproof Mascara,mascara,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk54,Waterproof Mascara,mascara,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk54,Waterproof Mascara,mascara,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk54,Waterproof Mascara,mascara,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk54,Waterproof Mascara,mascara,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk54,Waterproof Mascara,mascara,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk54,Waterproof Mascara,mascara,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk54,Waterproof Mascara,mascara,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk54,Waterproof Mascara,mascara,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk54,Waterproof Mascara,mascara,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk54,Waterproof Mascara,mascara,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk56,Gel Pot Eyeliner,eyeliner,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk56,Gel Pot Eyeliner,eyeliner,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk56,Gel Pot Eyeliner,eyeliner,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk56,Gel Pot Eyeliner,eyeliner,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk56,Gel Pot Eyeliner,eyeliner,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk56,Gel Pot Eyeliner,eyeliner,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk56,Gel Pot Eyeliner,eyeliner,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk56,Gel Pot Eyeliner,eyeliner,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk56,Gel Pot Eyeliner,eyeliner,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk56,Gel Pot Eyeliner,eyeliner,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk56,Gel Pot Eyeliner,eyeliner,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk56,Gel Pot Eyeliner,eyeliner,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk56,Gel Pot Eyeliner,eyeliner,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk56,Gel Pot Eyeliner,eyeliner,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk56,Gel Pot Eyeliner,eyeliner,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk56,Gel Pot Eyeliner,eyeliner,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk56,Gel Pot Eyeliner,eyeliner,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk56,Gel Pot Eyeliner,eyeliner,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk57,Kohl Eyeliner Pencil,eyeliner,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk57,Kohl Eyeliner Pencil,eyeliner,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk57,Kohl Eyeliner Pencil,eyeliner,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk57,Kohl Eyeliner Pencil,eyeliner,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk57,Kohl Eyeliner Pencil,eyeliner,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk57,Kohl Eyeliner Pencil,eyeliner,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk57,Kohl Eyeliner Pencil,eyeliner,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk57,Kohl Eyeliner Pencil,eyeliner,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk57,Kohl Eyeliner Pencil,eyeliner,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk57,Kohl Eyeliner Pencil,eyeliner,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk57,Kohl Eyeliner Pencil,eyeliner,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk57,Kohl Eyeliner Pencil,eyeliner,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk57,Kohl Eyeliner Pencil,eyeliner,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk57,Kohl Eyeliner Pencil,eyeliner,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk57,Kohl Eyeliner Pencil,eyeliner,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk57,Kohl Eyeliner Pencil,eyeliner,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk57,Kohl Eyeliner Pencil,eyeliner,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk57,Kohl Eyeliner Pencil,eyeliner,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk60,Eye Pigment - Taupe Matte,eyeshadow,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk60,Eye Pigment - Taupe Matte,eyeshadow,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk60,Eye Pigment - Taupe Matte,eyeshadow,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk60,Eye Pigment - Taupe Matte,eyeshadow,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk60,Eye Pigment - Taupe Matte,eyeshadow,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk60,Eye Pigment - Taupe Matte,eyeshadow,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk60,Eye Pigment - Taupe Matte,eyeshadow,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk60,Eye Pigment - Taupe Matte,eyeshadow,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk60,Eye Pigment - Taupe Matte,eyeshadow,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk60,Eye Pigment - Taupe Matte,eyeshadow,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk60,Eye Pigment - Taupe Matte,eyeshadow,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk60,Eye Pigment - Taupe Matte,eyeshadow,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk60,Eye Pigment - Taupe Matte,eyeshadow,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk60,Eye Pigment - Taupe Matte,eyeshadow,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk60,Eye Pigment - Taupe Matte,eyeshadow,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk60,Eye Pigment - Taupe Matte,eyeshadow,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk60,Eye Pigment - Taupe Matte,eyeshadow,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk60,Eye Pigment - Taupe Matte,eyeshadow,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk61,Eye Pigment - Bronze Duo-Chrome,eyeshadow,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk61,Eye Pigment - Bronze Duo-Chrome,eyeshadow,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk61,Eye Pigment - Bronze Duo-Chrome,eyeshadow,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk61,Eye Pigment - Bronze Duo-Chrome,eyeshadow,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk61,Eye Pigment - Bronze Duo-Chrome,eyeshadow,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk61,Eye Pigment - Bronze Duo-Chrome,eyeshadow,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk61,Eye Pigment - Bronze Duo-Chrome,eyeshadow,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk61,Eye Pigment - Bronze Duo-Chrome,eyeshadow,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk61,Eye Pigment - Bronze Duo-Chrome,eyeshadow,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk61,Eye Pigment - Bronze Duo-Chrome,eyeshadow,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk61,Eye Pigment - Bronze Duo-Chrome,eyeshadow,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk61,Eye Pigment - Bronze Duo-Chrome,eyeshadow,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk61,Eye Pigment - Bronze Duo-Chrome,eyeshadow,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk61,Eye Pigment - Bronze Duo-Chrome,eyeshadow,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk61,Eye Pigment - Bronze Duo-Chrome,eyeshadow,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk61,Eye Pigment - Bronze Duo-Chrome,eyeshadow,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk61,Eye Pigment - Bronze Duo-Chrome,eyeshadow,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk61,Eye Pigment - Bronze Duo-Chrome,eyeshadow,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk61,Eye Pigment - Bronze Duo-Chrome,eyeshadow,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk61,Eye Pigment - Bronze Duo-Chrome,eyeshadow,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk61,Eye Pigment - Bronze Duo-Chrome,eyeshadow,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk61,Eye Pigment - Bronze Duo-Chrome,eyeshadow,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk61,Eye Pigment - Bronze Duo-Chrome,eyeshadow,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk63,Eye Pigment - Golden Hour,eyeshadow,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk63,Eye Pigment - Golden Hour,eyeshadow,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk63,Eye Pigment - Golden Hour,eyeshadow,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk63,Eye Pigment - Golden Hour,eyeshadow,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk63,Eye Pigment - Golden Hour,eyeshadow,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk64,Eye Pigment - Slate Matte,eyeshadow,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk64,Eye Pigment - Slate Matte,eyeshadow,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk64,Eye Pigment - Slate Matte,eyeshadow,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk64,Eye Pigment - Slate Matte,eyeshadow,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk64,Eye Pigment - Slate Matte,eyeshadow,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk65,Brow Sculpting Pencil - Ash Blonde,brow,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk65,Brow Sculpting Pencil - Ash Blonde,brow,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk65,Brow Sculpting Pencil - Ash Blonde,brow,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk65,Brow Sculpting Pencil - Ash Blonde,brow,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk65,Brow Sculpting Pencil - Ash Blonde,brow,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk66,Brow Sculpting Pencil - Soft Brown,brow,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk66,Brow Sculpting Pencil - Soft Brown,brow,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk66,Brow Sculpting Pencil - Soft Brown,brow,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk66,Brow Sculpting Pencil - Soft Brown,brow,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk66,Brow Sculpting Pencil - Soft Brown,brow,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk66,Brow Sculpting Pencil - Soft Brown,brow,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk66,Brow Sculpting Pencil - Soft Brown,brow,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk66,Brow Sculpting Pencil - Soft Brown,brow,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk66,Brow Sculpting Pencil - Soft Brown,brow,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk66,Brow Sculpting Pencil - Soft Brown,brow,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk66,Brow Sculpting Pencil - Soft Brown,brow,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk66,Brow Sculpting Pencil - Soft Brown,brow,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk66,Brow Sculpting Pencil - Soft Brown,brow,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk66,Brow Sculpting Pencil - Soft Brown,brow,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk66,Brow Sculpting Pencil - Soft Brown,brow,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk66,Brow Sculpting Pencil - Soft Brown,brow,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk66,Brow Sculpting Pencil - Soft Brown,brow,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk66,Brow Sculpting Pencil - Soft Brown,brow,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk66,Brow Sculpting Pencil - Soft Brown,brow,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk66,Brow Sculpting Pencil - Soft Brown,brow,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk66,Brow Sculpting Pencil - Soft Brown,brow,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk66,Brow Sculpting Pencil - Soft Brown,brow,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk66,Brow Sculpting Pencil - Soft Brown,brow,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk67,Tinted Brow Gel - Clear,brow,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk67,Tinted Brow Gel - Clear,brow,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk67,Tinted Brow Gel - Clear,brow,teen,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk67,Tinted Brow Gel - Clear,brow,teen,acne_prone,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk67,Tinted Brow Gel - Clear,brow,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk67,Tinted Brow Gel - Clear,brow,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk67,Tinted Brow Gel - Clear,brow,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk67,Tinted Brow Gel - Clear,brow,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk67,Tinted Brow Gel - Clear,brow,teen,none,comedogenic_teen_note,standard,Contains pore-clogging-prone ingredients; worth knowing since acne is common in the teen years.
+mk67,Tinted Brow Gel - Clear,brow,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk67,Tinted Brow Gel - Clear,brow,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk67,Tinted Brow Gel - Clear,brow,adult,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk67,Tinted Brow Gel - Clear,brow,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk67,Tinted Brow Gel - Clear,brow,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk67,Tinted Brow Gel - Clear,brow,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk67,Tinted Brow Gel - Clear,brow,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk67,Tinted Brow Gel - Clear,brow,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk67,Tinted Brow Gel - Clear,brow,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk67,Tinted Brow Gel - Clear,brow,mature,acne_prone,comedogenic_ingredient_present,standard,Contains ingredient(s) with a history of pore-clogging/breakout potential; relevant for acne-prone skin specifically.
+mk67,Tinted Brow Gel - Clear,brow,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk67,Tinted Brow Gel - Clear,brow,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk67,Tinted Brow Gel - Clear,brow,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk67,Tinted Brow Gel - Clear,brow,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk68,Dewy Finish Setting Spray,setting_spray,teen,sensitive,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk68,Dewy Finish Setting Spray,setting_spray,teen,eczema,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk68,Dewy Finish Setting Spray,setting_spray,teen,rosacea,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk68,Dewy Finish Setting Spray,setting_spray,adult,sensitive,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk68,Dewy Finish Setting Spray,setting_spray,adult,eczema,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk68,Dewy Finish Setting Spray,setting_spray,adult,rosacea,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk68,Dewy Finish Setting Spray,setting_spray,mature,sensitive,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk68,Dewy Finish Setting Spray,setting_spray,mature,eczema,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk68,Dewy Finish Setting Spray,setting_spray,mature,rosacea,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk69,Matte Finish Setting Spray,setting_spray,teen,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk69,Matte Finish Setting Spray,setting_spray,teen,sensitive,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk69,Matte Finish Setting Spray,setting_spray,teen,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk69,Matte Finish Setting Spray,setting_spray,teen,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk69,Matte Finish Setting Spray,setting_spray,teen,eczema,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk69,Matte Finish Setting Spray,setting_spray,teen,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk69,Matte Finish Setting Spray,setting_spray,teen,rosacea,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk69,Matte Finish Setting Spray,setting_spray,teen,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk69,Matte Finish Setting Spray,setting_spray,teen,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk69,Matte Finish Setting Spray,setting_spray,adult,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk69,Matte Finish Setting Spray,setting_spray,adult,sensitive,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk69,Matte Finish Setting Spray,setting_spray,adult,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk69,Matte Finish Setting Spray,setting_spray,adult,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk69,Matte Finish Setting Spray,setting_spray,adult,eczema,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk69,Matte Finish Setting Spray,setting_spray,adult,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk69,Matte Finish Setting Spray,setting_spray,adult,rosacea,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk69,Matte Finish Setting Spray,setting_spray,adult,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk69,Matte Finish Setting Spray,setting_spray,adult,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk69,Matte Finish Setting Spray,setting_spray,mature,sensitive,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk69,Matte Finish Setting Spray,setting_spray,mature,sensitive,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk69,Matte Finish Setting Spray,setting_spray,mature,acne_prone,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk69,Matte Finish Setting Spray,setting_spray,mature,eczema,fragrance_or_sensitizer_present,elevated,Contains ingredient(s) recognised as common contact allergens. Higher relevance for sensitive/eczema-prone skin.
+mk69,Matte Finish Setting Spray,setting_spray,mature,eczema,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk69,Matte Finish Setting Spray,setting_spray,mature,rosacea,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk69,Matte Finish Setting Spray,setting_spray,mature,rosacea,drying_or_irritant_present,elevated,Contains alcohol/astringent-type ingredients that can further compromise an already-reactive or dry/eczema-prone/rosacea-prone barrier.
+mk69,Matte Finish Setting Spray,setting_spray,mature,pregnancy,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.
+mk69,Matte Finish Setting Spray,setting_spray,mature,none,fragrance_or_sensitizer_present,standard,Contains ingredient(s) recognised as common contact allergens.

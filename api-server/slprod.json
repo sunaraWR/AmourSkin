@@ -1,0 +1,5554 @@
+[
+  {
+    "id": "ds0001",
+    "name": "Yc Whitening Gold Caviar Shower Gel - Moisture Balance",
+    "type": "body care",
+    "category": "shower gel",
+    "product_url": "https://www.lookfantastic.com/yc-whitening-gold-caviar-shower-gel/11865001.html",
+    "clean_ingredients": [
+      "water",
+      "sodium laureth sulfate",
+      "glycerin",
+      "cocamidopropyl betaine",
+      "gold extract",
+      "caviar extract",
+      "sodium chloride",
+      "fragrance",
+      "citric acid"
+    ],
+    "price": 12.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0002",
+    "name": "Yardley Deodorant Roll On - Anti Perspirant - English Blossom",
+    "type": "body care",
+    "category": "deodorant",
+    "product_url": "https://www.lookfantastic.com/yardley-deodorant-roll-on-english-blossom/11865002.html",
+    "clean_ingredients": [
+      "aqua",
+      "aluminum chlorohydrate",
+      "steareth-2",
+      "steareth-21",
+      "parfum",
+      "phenoxyethanol",
+      "ethylhexylglycerin",
+      "linalool",
+      "citronellol"
+    ],
+    "price": 5.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0003",
+    "name": "Tresemme Keratin Smooth Shampoo",
+    "type": "hair care",
+    "category": "shampoo",
+    "product_url": "https://www.lookfantastic.com/tresemme-keratin-smooth-shampoo/11865003.html",
+    "clean_ingredients": [
+      "water",
+      "sodium laureth sulfate",
+      "cocamidopropyl betaine",
+      "sodium chloride",
+      "hydrolyzed keratin",
+      "dimethiconol",
+      "parfum",
+      "citric acid",
+      "sodium benzoate"
+    ],
+    "price": 6.75,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0004",
+    "name": "AMELIORATE Transforming Body Lotion 200ml",
+    "type": "skincare",
+    "category": "moisturizer",
+    "product_url": "https://www.lookfantastic.com/ameliorate-transforming-body-lotion-200ml/11865352.html",
+    "clean_ingredients": [
+      "ammonium lactate",
+      "c12-15",
+      "glycerin",
+      "prunus amygdalus dulcis",
+      "ethylhexyl palmitate",
+      "cetearyl alcohol",
+      "glyceryl stearate",
+      "peg-100 stearate",
+      "dimethicon",
+      "hydroxyethyl cellulose",
+      "phenoxyethanol",
+      "cetearyl glucoside",
+      "xanthan gum",
+      "sodium benzoate",
+      "sodium stearoyl glutamate",
+      "tocopheryl acetate",
+      "parfum",
+      "potassium sorbate",
+      "pentylene glycol",
+      "hydrolyzed lactis proteinum",
+      "disodium edta",
+      "lactic acid",
+      "serine",
+      "sodium lactate",
+      "sorbitol",
+      "urea",
+      "linalool",
+      "citronellol",
+      "sodium chloride",
+      "citrus aurantium dulcis",
+      "limonene",
+      "coumarin",
+      "juniperus mexicana oil",
+      "alpha-isomethyl ionone",
+      "allantoin",
+      "pelargonium graveolens extract",
+      "geraniol"
+    ],
+    "price": 22.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0005",
+    "name": "NeoStrata Pigment Controller",
+    "type": "skincare",
+    "category": "treatment",
+    "product_url": "https://www.lookfantastic.com/neostrata-pigment-controller/11865005.html",
+    "clean_ingredients": [
+      "aqua",
+      "acetyl glucosamine",
+      "peg-8",
+      "dimethicone",
+      "butylene glycol",
+      "butyrospermum parkii butter",
+      "octyldodecyl neopentanoate",
+      "glyceryl stearate",
+      "retinol",
+      "citric acid"
+    ],
+    "price": 42.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0006",
+    "name": "Yadley London - London Rose Deodorant Roll On",
+    "type": "body care",
+    "category": "deodorant",
+    "product_url": "https://www.lookfantastic.com/yardley-london-rose-deodorant/11865006.html",
+    "clean_ingredients": [
+      "aqua",
+      "aluminum chlorohydrate",
+      "propylene glycol",
+      "peg-40 hydrogenated castor oil",
+      "parfum",
+      "rosa damascena flower oil",
+      "hydroxycitronellal"
+    ],
+    "price": 4.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0007",
+    "name": "Rexona Anti Perspirant Deodorant Roll On Aloe Vera",
+    "type": "body care",
+    "category": "deodorant",
+    "product_url": "https://www.lookfantastic.com/rexona-aloe-vera-roll-on/11865007.html",
+    "clean_ingredients": [
+      "aqua",
+      "aluminum sesquichlorohydrate",
+      "ppg-15 stearyl ether",
+      "steareth-2",
+      "aloe barbadensis leaf juice",
+      "parfum",
+      "bht"
+    ],
+    "price": 3.49,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0008",
+    "name": "Vaseline Lip Care Total Moisture",
+    "type": "skincare",
+    "category": "lip care",
+    "product_url": "https://www.lookfantastic.com/vaseline-lip-care-total-moisture/11865008.html",
+    "clean_ingredients": [
+      "petrolatum",
+      "microcrystalline wax",
+      "theobroma cacao seed butter",
+      "butyrospermum parkii butter",
+      "perfume"
+    ],
+    "price": 3.25,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0009",
+    "name": "Aquasoft Moisturising Lotion",
+    "type": "skincare",
+    "category": "moisturizer",
+    "product_url": "https://www.lookfantastic.com/aquasoft-moisturising-lotion/11865009.html",
+    "clean_ingredients": [
+      "aqua",
+      "light liquid paraffin",
+      "propylene glycol",
+      "glycerin",
+      "glyceryl stearate",
+      "cetyl alcohol",
+      "isopropyl myristate",
+      "methylparaben"
+    ],
+    "price": 14.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0010",
+    "name": "Cuccio Pro T3 LED/UV Curve Versality Gel - Transparent Pink",
+    "type": "nail care",
+    "category": "gel",
+    "product_url": "https://www.lookfantastic.com/cuccio-pro-t3-led-uv-gel/11865010.html",
+    "clean_ingredients": [
+      "di-hema trimethylhexyl dicarbamate",
+      "isobornyl methacrylate",
+      "hydroxycyclohexyl phenyl ketone",
+      "violet 2",
+      "titanium dioxide"
+    ],
+    "price": 19.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0011",
+    "name": "Cuccio Pedicure Scentual Salt Soak",
+    "type": "body care",
+    "category": "salt soak",
+    "product_url": "https://www.lookfantastic.com/cuccio-pedicure-salt-soak/11865011.html",
+    "clean_ingredients": [
+      "sodium chloride",
+      "sea salt",
+      "fragrance",
+      "glycerin",
+      "aloe barbadensis leaf extract",
+      "ci 42090"
+    ],
+    "price": 16.20,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0012",
+    "name": "Cuccio Naturale Cooling Masque - Shea & Vetiver",
+    "type": "skincare",
+    "category": "masque",
+    "product_url": "https://www.lookfantastic.com/cuccio-cooling-masque/11865012.html",
+    "clean_ingredients": [
+      "aqua",
+      "kaolin",
+      "bentonite",
+      "glycerin",
+      "butyrospermum parkii butter",
+      "vetiveria zizanoides root oil",
+      "menthol",
+      "phenoxyethanol"
+    ],
+    "price": 18.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0013",
+    "name": "Cuccio Naturale Milk & Honey Cuticle Oil",
+    "type": "nail care",
+    "category": "cuticle oil",
+    "product_url": "https://www.lookfantastic.com/cuccio-milk-honey-cuticle-oil/11865013.html",
+    "clean_ingredients": [
+      "safflower seed oil",
+      "sunflower seed oil",
+      "cottonseed oil",
+      "honey extract",
+      "milk extract",
+      "fragrance",
+      "tocopheryl acetate"
+    ],
+    "price": 9.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0014",
+    "name": "CUCCIO Naturale Salt Soak - Milk & Honey",
+    "type": "body care",
+    "category": "salt soak",
+    "product_url": "https://www.lookfantastic.com/cuccio-salt-soak-milk-honey/11865014.html",
+    "clean_ingredients": [
+      "sodium chloride",
+      "magnesium sulfate",
+      "honey",
+      "lactis proteinum",
+      "parfum",
+      "ci 19140"
+    ],
+    "price": 17.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0015",
+    "name": "CUCCIO Naturale Callus Softener",
+    "type": "skincare",
+    "category": "treatment",
+    "product_url": "https://www.lookfantastic.com/cuccio-callus-softener/11865015.html",
+    "clean_ingredients": [
+      "aqua",
+      "potassium hydroxide",
+      "glycerin",
+      "hydroxyethylcellulose",
+      "aloe barbadensis leaf juice"
+    ],
+    "price": 15.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0016",
+    "name": "Cuccio Naturale Micro Exfoliation Scrub",
+    "type": "skincare",
+    "category": "scrub",
+    "product_url": "https://www.lookfantastic.com/cuccio-micro-exfoliation-scrub/11865016.html",
+    "clean_ingredients": [
+      "aqua",
+      "juglans regia shell powder",
+      "cetearyl alcohol",
+      "glycerin",
+      "glyceryl stearate",
+      "butyrospermum parkii butter",
+      "xanthan gum"
+    ],
+    "price": 16.80,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0017",
+    "name": "NeoStrata Clarifying Facial Cleanser",
+    "type": "skincare",
+    "category": "cleanser",
+    "product_url": "https://www.lookfantastic.com/neostrata-clarifying-facial-cleanser/11865017.html",
+    "clean_ingredients": [
+      "aqua",
+      "gluconolactone",
+      "mandelic acid",
+      "sodium c14-16 olefin sulfonate",
+      "cocamidopropyl betaine",
+      "polysorbate 20",
+      "sodium hydroxide"
+    ],
+    "price": 28.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0018",
+    "name": "NeoStrata Ultra Brightening Cleanser",
+    "type": "skincare",
+    "category": "cleanser",
+    "product_url": "https://www.lookfantastic.com/neostrata-ultra-brightening-cleanser/11865018.html",
+    "clean_ingredients": [
+      "aqua",
+      "gluconolactone",
+      "decyl glucoside",
+      "peg-8",
+      "peg-7 glyceryl cocoate",
+      "arctostaphylos uva-ursi leaf extract",
+      "citric acid"
+    ],
+    "price": 31.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0019",
+    "name": "NeoStrata Bionic Face Serum",
+    "type": "skincare",
+    "category": "serum",
+    "product_url": "https://www.lookfantastic.com/neostrata-bionic-face-serum/11865019.html",
+    "clean_ingredients": [
+      "aqua",
+      "butylene glycol",
+      "lactobionic acid",
+      "glycerin",
+      "gluconolactone",
+      "sodium hyaluronate",
+      "retinyl palmitate",
+      "tocopheryl acetate"
+    ],
+    "price": 46.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0020",
+    "name": "NeoStrata Gel Plus",
+    "type": "skincare",
+    "category": "gel",
+    "product_url": "https://www.lookfantastic.com/neostrata-gel-plus/11865020.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycolic acid",
+      "alcohol denat.",
+      "ammonium hydroxide",
+      "polyquaternium-10",
+      "tetrasodium edta"
+    ],
+    "price": 34.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0021",
+    "name": "NeoStrata Oily Skin Solution",
+    "type": "skincare",
+    "category": "solution",
+    "product_url": "https://www.lookfantastic.com/neostrata-oily-skin-solution/11865021.html",
+    "clean_ingredients": [
+      "aqua",
+      "alcohol denat.",
+      "glycolic acid",
+      "propylene glycol",
+      "ammonium hydroxide",
+      "chlorphenesin"
+    ],
+    "price": 30.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0022",
+    "name": "NeoStrata Skin Active Exfoliating Wash",
+    "type": "skincare",
+    "category": "cleanser",
+    "product_url": "https://www.lookfantastic.com/neostrata-skin-active-exfoliating-wash/11865022.html",
+    "clean_ingredients": [
+      "aqua",
+      "gluconolactone",
+      "peg-8",
+      "decyl glucoside",
+      "maltobionic acid",
+      "propylene glycol",
+      "citric acid"
+    ],
+    "price": 38.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0023",
+    "name": "Cuccio Pro Powder Polish - Clear",
+    "type": "nail care",
+    "category": "powder polish",
+    "product_url": "https://www.lookfantastic.com/cuccio-powder-polish-clear/11865023.html",
+    "clean_ingredients": [
+      "polyethylmethacrylate",
+      "polymethyl methacrylate",
+      "benzoyl peroxide",
+      "silica"
+    ],
+    "price": 14.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0024",
+    "name": "Cuccio Naturale Refresh & Revitalize Detox Soak",
+    "type": "body care",
+    "category": "soak",
+    "product_url": "https://www.lookfantastic.com/cuccio-detox-soak/11865024.html",
+    "clean_ingredients": [
+      "sodium chloride",
+      "sodium bicarbonate",
+      "citric acid",
+      "eucalyptus globulus leaf oil",
+      "mentha piperita oil"
+    ],
+    "price": 18.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0025",
+    "name": "Cuccio Pro Powder Polish Dip Original Pink",
+    "type": "nail care",
+    "category": "powder polish",
+    "product_url": "https://www.lookfantastic.com/cuccio-dip-pink/11865025.html",
+    "clean_ingredients": [
+      "polyethylmethacrylate",
+      "polymethyl methacrylate",
+      "benzoyl peroxide",
+      "pigments"
+    ],
+    "price": 14.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0026",
+    "name": "Cuccio Naturale Intense Hydrating Treatment",
+    "type": "skincare",
+    "category": "treatment",
+    "product_url": "https://www.lookfantastic.com/cuccio-intense-hydrating/11865026.html",
+    "clean_ingredients": [
+      "aqua",
+      "butyrospermum parkii butter",
+      "glycerin",
+      "cetearyl alcohol",
+      "vetiveria zizanoides root extract",
+      "tocopherol"
+    ],
+    "price": 21.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0027",
+    "name": "Cuccio Pro Powder Polish - White",
+    "type": "nail care",
+    "category": "powder polish",
+    "product_url": "https://www.lookfantastic.com/cuccio-powder-polish-white/11865027.html",
+    "clean_ingredients": [
+      "polyethylmethacrylate",
+      "polymethyl methacrylate",
+      "benzoyl peroxide",
+      "titanium dioxide"
+    ],
+    "price": 14.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0028",
+    "name": "Creation Lamis Love You Lots Eau De Parfume Spray for Women",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/creation-lamis-love-you-lots/11865028.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "aqua",
+      "parfum",
+      "alpha-isomethyl ionone",
+      "benzyl salicylate",
+      "citronellol",
+      "geraniol",
+      "limonene",
+      "linalool"
+    ],
+    "price": 16.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0029",
+    "name": "Baby Cheramy Baby Wet Wipes",
+    "type": "baby care",
+    "category": "wipes",
+    "product_url": "https://www.lookfantastic.com/baby-cheramy-wet-wipes/11865029.html",
+    "clean_ingredients": [
+      "aqua",
+      "propylene glycol",
+      "peg-40 hydrogenated castor oil",
+      "phenoxyethanol",
+      "sodium benzoate",
+      "citric acid"
+    ],
+    "price": 2.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0030",
+    "name": "Gold Real Men ARCTIC Deo Spray",
+    "type": "body care",
+    "category": "deodorant",
+    "product_url": "https://www.lookfantastic.com/gold-real-men-arctic-deo/11865030.html",
+    "clean_ingredients": [
+      "butane",
+      "isobutane",
+      "propane",
+      "alcohol denat.",
+      "parfum",
+      "isopropyl myristate",
+      "ethylhexylglycerin"
+    ],
+    "price": 4.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0031",
+    "name": "Secret Crush from Goya Body Spray",
+    "type": "fragrance",
+    "category": "body spray",
+    "product_url": "https://www.lookfantastic.com/goya-secret-crush-body-spray/11865031.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "aqua",
+      "parfum",
+      "propylene glycol",
+      "linalool",
+      "limonene"
+    ],
+    "price": 5.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0032",
+    "name": "Rifresh Face Wash",
+    "type": "skincare",
+    "category": "cleanser",
+    "product_url": "https://www.lookfantastic.com/rifresh-face-wash/11865032.html",
+    "clean_ingredients": [
+      "aqua",
+      "sodium lauryl ether sulfate",
+      "cocamidopropyl betaine",
+      "glycerin",
+      "salicylic acid",
+      "sodium chloride",
+      "parfum"
+    ],
+    "price": 8.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0033",
+    "name": "AXE Signature - Gold - Iced Vetiver & Fresh Lavender Eau De Toilette",
+    "type": "fragrance",
+    "category": "eau de toilette",
+    "product_url": "https://www.lookfantastic.com/axe-signature-gold-edt/11865033.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "aqua",
+      "parfum",
+      "citronellol",
+      "coumarin",
+      "geraniol",
+      "limonene",
+      "linalool"
+    ],
+    "price": 14.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0034",
+    "name": "Cetaphil Gentle Skin Cleanser",
+    "type": "skincare",
+    "category": "cleanser",
+    "product_url": "https://www.lookfantastic.com/cetaphil-gentle-skin-cleanser-473ml/13908196.html",
+    "clean_ingredients": [
+      "aqua",
+      "cetyl alcohol",
+      "propylene glycol",
+      "butylparaben",
+      "methylparaben",
+      "propylparaben",
+      "sodium lauryl sulfate"
+    ],
+    "price": 15.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0035",
+    "name": "AXE Deodorant Body Spray - Dark Temptation",
+    "type": "body care",
+    "category": "deodorant",
+    "product_url": "https://www.lookfantastic.com/axe-dark-temptation-spray/11865035.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "butane",
+      "isobutane",
+      "propane",
+      "parfum",
+      "amyl cinnamal",
+      "citronellol",
+      "coumarin"
+    ],
+    "price": 4.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0036",
+    "name": "Cuccio Naturale Deep Dermal Transforming Wrap",
+    "type": "skincare",
+    "category": "treatment",
+    "product_url": "https://www.lookfantastic.com/cuccio-transforming-wrap/11865036.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycerin",
+      "petrolatum",
+      "cetearyl alcohol",
+      "urea",
+      "polysorbate 60",
+      "phenoxyethanol"
+    ],
+    "price": 22.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0037",
+    "name": "Dove Deeply Nourishing Body Wash",
+    "type": "body care",
+    "category": "body wash",
+    "product_url": "https://www.lookfantastic.com/dove-deeply-nourishing-body-wash/11865037.html",
+    "clean_ingredients": [
+      "aqua",
+      "cocamidopropyl betaine",
+      "sodium hydroxypropyl starch phosphate",
+      "lauric acid",
+      "sodium lauroyl glycinate",
+      "sodium lauroyl isethionate",
+      "hydrogenated soybean oil",
+      "sodium chloride",
+      "glycerin"
+    ],
+    "price": 4.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0038",
+    "name": "Dove Go Fresh Anti-Perspirant - Cucumber & Green Tea",
+    "type": "body care",
+    "category": "antiperspirant",
+    "product_url": "https://www.lookfantastic.com/dove-go-fresh-cucumber-ap/11865038.html",
+    "clean_ingredients": [
+      "butane",
+      "isobutane",
+      "propane",
+      "aluminum chlorohydrate",
+      "cyclopentasiloxane",
+      "ppg-14 butyl ether",
+      "parfum",
+      "disteardimonium hectorite"
+    ],
+    "price": 3.75,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0039",
+    "name": "Dove Go Fresh Revive Body Wash - Pomegranate & Lemon Verbena Scent",
+    "type": "body care",
+    "category": "body wash",
+    "product_url": "https://www.lookfantastic.com/dove-revive-body-wash/11865039.html",
+    "clean_ingredients": [
+      "aqua",
+      "cocamidopropyl betaine",
+      "sodium lauroyl isethionate",
+      "glycerin",
+      "parfum",
+      "punica granatum fruit juice",
+      "sodium chloride"
+    ],
+    "price": 4.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0040",
+    "name": "Dove Original - Anti Perspirant",
+    "type": "body care",
+    "category": "antiperspirant",
+    "product_url": "https://www.lookfantastic.com/dove-original-anti-perspirant/11865040.html",
+    "clean_ingredients": [
+      "butane",
+      "isobutane",
+      "propane",
+      "aluminum chlorohydrate",
+      "cyclopentasiloxane",
+      "ppg-14 butyl ether",
+      "parfum",
+      "c12-15 alkyl benzoate"
+    ],
+    "price": 3.75,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0041",
+    "name": "Dove Purely Pampering Coconut with Jasmine Body Wash",
+    "type": "body care",
+    "category": "body wash",
+    "product_url": "https://www.lookfantastic.com/dove-coconut-jasmine-body-wash/11865041.html",
+    "clean_ingredients": [
+      "aqua",
+      "cocamidopropyl betaine",
+      "sodium lauroyl isethionate",
+      "glycerin",
+      "parfum",
+      "cocos nucifera fruit extract",
+      "jasminum officinale flower extract"
+    ],
+    "price": 5.25,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0042",
+    "name": "Dove Purely Pampering Nourishing Body Wash - Shea Butter",
+    "type": "body care",
+    "category": "body wash",
+    "product_url": "https://www.lookfantastic.com/dove-shea-butter-body-wash/11865042.html",
+    "clean_ingredients": [
+      "aqua",
+      "cocamidopropyl betaine",
+      "sodium lauroyl isethionate",
+      "glycerin",
+      "butyrospermum parkii butter",
+      "parfum",
+      "sodium chloride"
+    ],
+    "price": 5.25,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0043",
+    "name": "Dove Go Fresh Pomegranate & Lemon Verbena Anti Perspirant",
+    "type": "body care",
+    "category": "antiperspirant",
+    "product_url": "https://www.lookfantastic.com/dove-pomegranate-ap/11865043.html",
+    "clean_ingredients": [
+      "butane",
+      "isobutane",
+      "propane",
+      "aluminum chlorohydrate",
+      "cyclopentasiloxane",
+      "parfum",
+      "helianthus annuus seed oil"
+    ],
+    "price": 3.75,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0044",
+    "name": "Dove Go Fresh Anti-Perspirant - Grape Fruit & Lemon Grass",
+    "type": "body care",
+    "category": "antiperspirant",
+    "product_url": "https://www.lookfantastic.com/dove-grapefruit-ap/11865044.html",
+    "clean_ingredients": [
+      "butane",
+      "isobutane",
+      "propane",
+      "aluminum chlorohydrate",
+      "cyclopentasiloxane",
+      "parfum",
+      "citrus grandis fruit extract"
+    ],
+    "price": 3.75,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0045",
+    "name": "Dove Beauty Finish - Anti Perspirant",
+    "type": "body care",
+    "category": "antiperspirant",
+    "product_url": "https://www.lookfantastic.com/dove-beauty-finish-ap/11865045.html",
+    "clean_ingredients": [
+      "butane",
+      "isobutane",
+      "propane",
+      "aluminum chlorohydrate",
+      "cyclopentasiloxane",
+      "mica",
+      "parfum",
+      "titanium dioxide"
+    ],
+    "price": 3.75,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0046",
+    "name": "Revlon Nail Enamel - Fuchsia Pink",
+    "type": "nail care",
+    "category": "nail polish",
+    "product_url": "https://www.lookfantastic.com/revlon-nail-enamel-fuchsia/11865046.html",
+    "clean_ingredients": [
+      "ethyl acetate",
+      "butyl acetate",
+      "nitrocellulose",
+      "propyl acetate",
+      "tosylamide/formaldehyde resin",
+      "isopropyl alcohol",
+      "ci 15850"
+    ],
+    "price": 6.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0047",
+    "name": "Neotone Serum (ISIS PHARMA)",
+    "type": "skincare",
+    "category": "serum",
+    "product_url": "https://www.lookfantastic.com/isis-pharma-neotone-serum/11865047.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycolic acid",
+      "butylenes glycol",
+      "propandiol",
+      "polysorbate 20",
+      "licorice extract",
+      "ascorbic acid"
+    ],
+    "price": 35.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0048",
+    "name": "Neotone Gel",
+    "type": "skincare",
+    "category": "gel",
+    "product_url": "https://www.lookfantastic.com/isis-pharma-neotone-gel/11865048.html",
+    "clean_ingredients": [
+      "aqua",
+      "sodium laureth sulfate",
+      "glycerin",
+      "glycolic acid",
+      "salicylic acid",
+      "sodium hydroxide"
+    ],
+    "price": 24.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0049",
+    "name": "LUX Botanicals Honey & Lotus Body Wash",
+    "type": "body care",
+    "category": "body wash",
+    "product_url": "https://www.lookfantastic.com/lux-botanicals-honey-lotus/11865049.html",
+    "clean_ingredients": [
+      "aqua",
+      "sodium laureth sulfate",
+      "cocamidopropyl betaine",
+      "sodium chloride",
+      "honey",
+      "nelumbo nucifera flower extract",
+      "parfum"
+    ],
+    "price": 4.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0050",
+    "name": "LUX Botanicals Aloe Vera & Camellia Body Wash",
+    "type": "body care",
+    "category": "body wash",
+    "product_url": "https://www.lookfantastic.com/lux-botanicals-aloe-camellia/11865050.html",
+    "clean_ingredients": [
+      "aqua",
+      "sodium laureth sulfate",
+      "cocamidopropyl betaine",
+      "aloe barbadensis leaf juice",
+      "camellia sinensis leaf extract",
+      "parfum"
+    ],
+    "price": 4.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0051",
+    "name": "NeoStrata Triple Firming Neck Cream",
+    "type": "skincare",
+    "category": "neck cream",
+    "product_url": "https://www.lookfantastic.com/neostrata-triple-firming-neck-cream/11865051.html",
+    "clean_ingredients": [
+      "aqua",
+      "acetyl glucosamine",
+      "maltobionic acid",
+      "nylon-12",
+      "cyclometicone",
+      "glycerin",
+      "propeptide",
+      "apple fruit extract"
+    ],
+    "price": 48.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0052",
+    "name": "Ideal Mirage Eau de Perfume - Natural Spray",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/ideal-mirage-edp/11865052.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "aqua",
+      "parfum",
+      "benzyl salicylate",
+      "limonene",
+      "linalool",
+      "coumarin"
+    ],
+    "price": 25.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0053",
+    "name": "YOUR MEN BLUE Eau de Toilette - Natural Spray",
+    "type": "fragrance",
+    "category": "eau de toilette",
+    "product_url": "https://www.lookfantastic.com/your-men-blue-edt/11865053.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "aqua",
+      "parfum",
+      "linalool",
+      "limonene",
+      "butylphenyl methylpropional",
+      "citronellol"
+    ],
+    "price": 22.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0054",
+    "name": "POND'S AGE MIRACLE Double Action Serum",
+    "type": "skincare",
+    "category": "serum",
+    "product_url": "https://www.lookfantastic.com/ponds-age-miracle-serum/11865054.html",
+    "clean_ingredients": [
+      "water",
+      "cyclopentasiloxane",
+      "glycerin",
+      "niacinamide",
+      "caprylic/capric triglyceride",
+      "retinyl propionate",
+      "tocopheryl acetate"
+    ],
+    "price": 19.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0055",
+    "name": "Diable Bleu for Women - Creation Lamis",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/diable-bleu-women/11865055.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "aqua",
+      "parfum",
+      "coumarin",
+      "limonene",
+      "linalool",
+      "geraniol"
+    ],
+    "price": 15.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0056",
+    "name": "Capri Perfumed Cologne Spray",
+    "type": "fragrance",
+    "category": "cologne",
+    "product_url": "https://www.lookfantastic.com/capri-perfumed-cologne/11865056.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "aqua",
+      "parfum",
+      "propylene glycol",
+      "citral",
+      "geraniol",
+      "limonene"
+    ],
+    "price": 11.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0057",
+    "name": "Goya Captivating Rose Perfumed Cologne Spray",
+    "type": "fragrance",
+    "category": "cologne",
+    "product_url": "https://www.lookfantastic.com/goya-captivating-rose/11865057.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "aqua",
+      "parfum",
+      "rosa centifolia flower extract",
+      "citronellol",
+      "geraniol"
+    ],
+    "price": 12.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0058",
+    "name": "Spa Ceylon Natural Lipstick No 14 - Ceylon Cinnamon",
+    "type": "makeup",
+    "category": "lipstick",
+    "product_url": "https://www.lookfantastic.com/spa-ceylong-lipstick-cinnamon/11865058.html",
+    "clean_ingredients": [
+      "ricinus communis seed oil",
+      "beeswax",
+      "cinnamomum zeylanicum bark oil",
+      "butyrospermum parkii butter",
+      "tocopherol",
+      "ci 77491"
+    ],
+    "price": 18.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0059",
+    "name": "Hadalabo Gokujyun Cream",
+    "type": "skincare",
+    "category": "cream",
+    "product_url": "https://www.lookfantastic.com/hadalabo-gokujyun-cream/11865059.html",
+    "clean_ingredients": [
+      "water",
+      "glycerin",
+      "dipropylene glycol",
+      "diglycerin",
+      "squalane",
+      "sodium acetylated hyaluronate",
+      "sodium hyaluronate",
+      "carbomer"
+    ],
+    "price": 21.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0060",
+    "name": "POND'S Glow up Milk Mask - Honey",
+    "type": "skincare",
+    "category": "mask",
+    "product_url": "https://www.lookfantastic.com/ponds-glow-up-milk-mask/11865060.html",
+    "clean_ingredients": [
+      "water",
+      "glycerin",
+      "niacinamide",
+      "honey extract",
+      "milk protein",
+      "peg-40 hydrogenated castor oil",
+      "xanthan gum"
+    ],
+    "price": 3.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0061",
+    "name": "POND'S Bright up Milk Mask - Instabright Tone Up",
+    "type": "skincare",
+    "category": "mask",
+    "product_url": "https://www.lookfantastic.com/ponds-bright-up-milk-mask/11865061.html",
+    "clean_ingredients": [
+      "water",
+      "glycerin",
+      "titanium dioxide",
+      "niacinamide",
+      "milk protein",
+      "ammonium acryloyldimethyltaurate",
+      "parfum"
+    ],
+    "price": 3.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0062",
+    "name": "BIOTOPIX Specific Flash Instant Lifting Cream",
+    "type": "skincare",
+    "category": "cream",
+    "product_url": "https://www.lookfantastic.com/biotopix-flash-lifting-cream/11865062.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycerin",
+      "pullulan",
+      "algae extract",
+      "sodium hyaluronate",
+      "phenoxyethanol",
+      "ethylhexylglycerin"
+    ],
+    "price": 45.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0063",
+    "name": "AXE Signature-Gold-Italian Bergamot & Amber Wood Eau De Toilette",
+    "type": "fragrance",
+    "category": "eau de toilette",
+    "product_url": "https://www.lookfantastic.com/axe-signature-gold-bergamot/11865063.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "aqua",
+      "parfum",
+      "citrus bergamia peel oil expressed",
+      "linalool",
+      "limonene",
+      "coumarin"
+    ],
+    "price": 14.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0064",
+    "name": "AXE Signature-Gold-Black Musk & Cedar Wood Eau De Toilette",
+    "type": "fragrance",
+    "category": "eau de toilette",
+    "product_url": "https://www.lookfantastic.com/axe-signature-black-musk/11865064.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "aqua",
+      "parfum",
+      "cedrus atlantica bark oil",
+      "alpha-isomethyl ionone",
+      "coumarin",
+      "limonene"
+    ],
+    "price": 14.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0065",
+    "name": "Top Speed Hair Color Women - Natural Black 70",
+    "type": "hair care",
+    "category": "hair color",
+    "product_url": "https://www.lookfantastic.com/top-speed-hair-color-black/11865065.html",
+    "clean_ingredients": [
+      "water",
+      "ethanolamine",
+      "cetearyl alcohol",
+      "propylene glycol",
+      "p-phenylenediamine",
+      "resorcinol",
+      "sodium sulfite"
+    ],
+    "price": 8.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0066",
+    "name": "Dermavive Moisturising Lotion",
+    "type": "skincare",
+    "category": "moisturizer",
+    "product_url": "https://www.lookfantastic.com/dermavive-moisturising-lotion/11865066.html",
+    "clean_ingredients": [
+      "colloidal oatmeal",
+      "aqua",
+      "glycerin",
+      "caprylic/capric triglyceride",
+      "cetearyl alcohol",
+      "glyceryl stearate",
+      "sodium benzoate"
+    ],
+    "price": 18.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0067",
+    "name": "L'homme Lacoste Intense Eau De Toilette",
+    "type": "fragrance",
+    "category": "eau de toilette",
+    "product_url": "https://www.lookfantastic.com/lhomme-lacoste-intense-edt/11865067.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "aqua",
+      "parfum",
+      "ethylhexyl salicylate",
+      "butyl methoxydibenzoylmethane",
+      "linalool",
+      "limonene",
+      "coumarin"
+    ],
+    "price": 54.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0068",
+    "name": "Restoria Express Hair Colour Cream - Black",
+    "type": "hair care",
+    "category": "hair color",
+    "product_url": "https://www.lookfantastic.com/restoria-express-black/11865068.html",
+    "clean_ingredients": [
+      "water",
+      "hydrogen peroxide",
+      "cetearyl alcohol",
+      "ceteareth-20",
+      "phosphoric acid",
+      "sodium stannate"
+    ],
+    "price": 11.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0069",
+    "name": "Nature's Secrets Under Eye Cream",
+    "type": "skincare",
+    "category": "eye cream",
+    "product_url": "https://www.lookfantastic.com/natures-secrets-under-eye-cream/11865069.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycerin",
+      "aloe barbadensis leaf extract",
+      "glycyrrhiza glabra root extract",
+      "tocopheryl acetate",
+      "carbomer",
+      "triethanolamine"
+    ],
+    "price": 13.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0070",
+    "name": "SESDERMA C-VIT Radiance Facial Glowing Fluid",
+    "type": "skincare",
+    "category": "fluid",
+    "product_url": "https://www.lookfantastic.com/sesderma-c-vit-glowing-fluid/11865070.html",
+    "clean_ingredients": [
+      "aqua",
+      "ascorbyl glucoside",
+      "propylene glycol",
+      "cyclopentasiloxane",
+      "glycerin",
+      "ginkgo biloba leaf extract",
+      "hyaluronic acid",
+      "sodium hydroxide"
+    ],
+    "price": 39.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0071",
+    "name": "SESDERMA C-VIT Facial Eye Contour Patches Flash Effect",
+    "type": "skincare",
+    "category": "eye patches",
+    "product_url": "https://www.lookfantastic.com/sesderma-c-vit-eye-patches/11865071.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycerin",
+      "sodium ascorbyl phosphate",
+      "palmaria palmata extract",
+      "xanthan gum",
+      "citric acid",
+      "phenoxyethanol"
+    ],
+    "price": 26.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0072",
+    "name": "SOTHYS Clarifying Correcting Serum",
+    "type": "skincare",
+    "category": "serum",
+    "product_url": "https://www.lookfantastic.com/sothys-clarifying-correcting-serum/11865072.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycerin",
+      "niacinamide",
+      "glycolic acid",
+      "hexylresorcinol",
+      "polyacrylate crosspolymer-6",
+      "sodium hydroxide"
+    ],
+    "price": 62.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0073",
+    "name": "Yardley London Royal Bouquet Deodorant Roll on Anti-perspirant",
+    "type": "body care",
+    "category": "deodorant",
+    "product_url": "https://www.lookfantastic.com/yardley-royal-bouquet-roll-on/11865073.html",
+    "clean_ingredients": [
+      "aqua",
+      "aluminum chlorohydrate",
+      "steareth-2",
+      "steareth-21",
+      "parfum",
+      "alpha-isomethyl ionone",
+      "benzyl salicylate",
+      "citronellol"
+    ],
+    "price": 4.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0074",
+    "name": "Goya Mesmerizing Jasmine Body Lotion",
+    "type": "body care",
+    "category": "body lotion",
+    "product_url": "https://www.lookfantastic.com/goya-jasmine-body-lotion/11865074.html",
+    "clean_ingredients": [
+      "aqua",
+      "mineral oil",
+      "glycerin",
+      "cetearyl alcohol",
+      "glyceryl stearate",
+      "jasminum officinale flower extract",
+      "parfum"
+    ],
+    "price": 7.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0075",
+    "name": "Baby Cheramy Sparkle Magic Mist Floral Cologne",
+    "type": "fragrance",
+    "category": "cologne",
+    "product_url": "https://www.lookfantastic.com/baby-cheramy-sparkle-mist/11865075.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "aqua",
+      "parfum",
+      "peg-40 hydrogenated castor oil",
+      "propylene glycol"
+    ],
+    "price": 5.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0076",
+    "name": "Goya Captivating Rose Body Lotion",
+    "type": "body care",
+    "category": "body lotion",
+    "product_url": "https://www.lookfantastic.com/goya-rose-body-lotion/11865076.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycerin",
+      "isopropyl myristate",
+      "cetearyl alcohol",
+      "rosa centifolia flower water",
+      "parfum",
+      "carbomer"
+    ],
+    "price": 7.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0077",
+    "name": "Baby Cheramy Sparkle Star Dust Floral Cologne",
+    "type": "fragrance",
+    "category": "cologne",
+    "product_url": "https://www.lookfantastic.com/baby-cheramy-star-dust/11865077.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "aqua",
+      "parfum",
+      "peg-40 hydrogenated castor oil",
+      "linalool",
+      "citronellol"
+    ],
+    "price": 5.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0078",
+    "name": "Gold Real Men Classic Deo Spray",
+    "type": "body care",
+    "category": "deodorant",
+    "product_url": "https://www.lookfantastic.com/gold-real-men-classic-deo/11865078.html",
+    "clean_ingredients": [
+      "butane",
+      "isobutane",
+      "propane",
+      "alcohol denat.",
+      "parfum",
+      "isopropyl myristate",
+      "linalool",
+      "limonene"
+    ],
+    "price": 4.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0079",
+    "name": "Gold Real Men Energy Deo Spray",
+    "type": "body care",
+    "category": "deodorant",
+    "product_url": "https://www.lookfantastic.com/gold-real-men-energy-deo/11865079.html",
+    "clean_ingredients": [
+      "butane",
+      "isobutane",
+      "propane",
+      "alcohol denat.",
+      "parfum",
+      "citral",
+      "geraniol",
+      "limonene"
+    ],
+    "price": 4.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0080",
+    "name": "Vaseline Lip Care - Rosy lips",
+    "type": "skincare",
+    "category": "lip care",
+    "product_url": "https://www.lookfantastic.com/vaseline-lip-care-rosy-lips/11865080.html",
+    "clean_ingredients": [
+      "petrolatum",
+      "rosa damascena flower oil",
+      "prunus amygdalus dulcis oil",
+      "aroma",
+      "red 30 lake",
+      "iron oxides"
+    ],
+    "price": 3.25,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0081",
+    "name": "Axe Signature Dark Temptation Body Perfume Spray - Ticket",
+    "type": "fragrance",
+    "category": "body spray",
+    "product_url": "https://www.lookfantastic.com/axe-dark-temptation-ticket/11865081.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "butane",
+      "isobutane",
+      "propane",
+      "parfum",
+      "propylene glycol",
+      "coumarin"
+    ],
+    "price": 4.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0082",
+    "name": "Street Wear Compact Powder - Medium Deep",
+    "type": "makeup",
+    "category": "compact powder",
+    "product_url": "https://www.lookfantastic.com/street-wear-compact-powder/11865082.html",
+    "clean_ingredients": [
+      "talc",
+      "mica",
+      "zinc stearate",
+      "silica",
+      "dimethicone",
+      "ethylhexyl palmitate",
+      "methylparaben",
+      "ci 77492"
+    ],
+    "price": 7.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0083",
+    "name": "BURBERRY BRIT SHEER FOR HER - Eau de Toilette",
+    "type": "fragrance",
+    "category": "eau de toilette",
+    "product_url": "https://www.lookfantastic.com/burberry-brit-sheer-edt/11865083.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "ethylhexyl methoxycinnamate",
+      "butyl methodoxydibenzoylmethane",
+      "limonene",
+      "citral"
+    ],
+    "price": 52.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0084",
+    "name": "BOSS HUGO BOSS THE SCENT FOR HER - Eau de parfum",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/boss-the-scent-for-her-edp/11865084.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "ethylhexyl salicylate",
+      "butyl methoxydibenzoylmethane",
+      "benzyl salicylate",
+      "limonene",
+      "citronellol"
+    ],
+    "price": 60.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0085",
+    "name": "LACOSTE Eau De Lacoste L.12.12 Blanc-pure Pour Homme - Eau De Toilette",
+    "type": "fragrance",
+    "category": "eau de toilette",
+    "product_url": "https://www.lookfantastic.com/lacoste-l.12.12-blanc-edt/11865085.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "aqua",
+      "parfum",
+      "limonene",
+      "linalool",
+      "citronellol",
+      "geraniol",
+      "citral"
+    ],
+    "price": 48.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0086",
+    "name": "BURBERRY Mr. BURBERRY - Eau de Toilette",
+    "type": "fragrance",
+    "category": "eau de toilette",
+    "product_url": "https://www.lookfantastic.com/burberry-mr-burberry-edt/11865086.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "limonene",
+      "linalool",
+      "citronellol",
+      "coumarin",
+      "citral"
+    ],
+    "price": 56.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0087",
+    "name": "BURBERRY TOUCH FOR MEN Eau De Toilette",
+    "type": "fragrance",
+    "category": "eau de toilette",
+    "product_url": "https://www.lookfantastic.com/burberry-touch-men-edt/11865087.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "linalool",
+      "limonene",
+      "coumarin",
+      "citronellol",
+      "geraniol"
+    ],
+    "price": 50.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0088",
+    "name": "Cute Baby Wet Wipes",
+    "type": "baby care",
+    "category": "wipes",
+    "product_url": "https://www.lookfantastic.com/cute-baby-wet-wipes/11865088.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycerin",
+      "chamomilla recutita flower extract",
+      "polysorbate 20",
+      "phenoxyethanol",
+      "citric acid"
+    ],
+    "price": 2.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0089",
+    "name": "Veet Hair Removal Cream - Silk & Fresh - Normal Skin",
+    "type": "skincare",
+    "category": "hair removal",
+    "product_url": "https://www.lookfantastic.com/veet-hair-removal-cream-normal/11865089.html",
+    "clean_ingredients": [
+      "aqua",
+      "urea",
+      "potassium thioglycolate",
+      "paraffinum liquidum",
+      "cetearyl alcohol",
+      "calcium hydroxide",
+      "talc",
+      "glycerin",
+      "parfum"
+    ],
+    "price": 6.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0090",
+    "name": "Hadalabo Gokuiyun Face Wash",
+    "type": "skincare",
+    "category": "cleanser",
+    "product_url": "https://www.lookfantastic.com/hadalabo-gokujyun-face-wash/11865090.html",
+    "clean_ingredients": [
+      "water",
+      "glycerin",
+      "palmitic acid",
+      "stearic acid",
+      "potassium hydroxide",
+      "butylene glycol",
+      "sodium acetylated hyaluronate",
+      "sodium hyaluronate"
+    ],
+    "price": 14.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0091",
+    "name": "GUCCI BLOOM ACQUA DI FIORI - Eau de Toilette",
+    "type": "fragrance",
+    "category": "eau de toilette",
+    "product_url": "https://www.lookfantastic.com/gucci-bloom-acqua-di-fiori-edt/11865091.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "linalool",
+      "benzyl salicylate",
+      "limonene",
+      "hydroxycitronellal",
+      "geraniol"
+    ],
+    "price": 74.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0092",
+    "name": "GUCCI BLOOM Eau de Parfum",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/gucci-bloom-edp/11865092.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "linalool",
+      "benzyl salicylate",
+      "limonene",
+      "hydroxycitronellal",
+      "geraniol",
+      "eugenol"
+    ],
+    "price": 82.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0093",
+    "name": "Hadalabo Gokuiyun Lotion (Toner)",
+    "type": "skincare",
+    "category": "toner",
+    "product_url": "https://www.lookfantastic.com/hadalabo-gokujyun-lotion/11865093.html",
+    "clean_ingredients": [
+      "water",
+      "butylene glycol",
+      "glycerin",
+      "sodium hyaluronate",
+      "sodium acetylated hyaluronate",
+      "hydrolyzed hyaluronic acid",
+      "disodium edta"
+    ],
+    "price": 16.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0094",
+    "name": "Mostal Solution",
+    "type": "hair care",
+    "category": "treatment",
+    "product_url": "https://www.lookfantastic.com/mostal-solution/11865094.html",
+    "clean_ingredients": [
+      "aqua",
+      "alcohol denat.",
+      "procapil",
+      "biotinoyl tripeptide-1",
+      "apigenin",
+      "oleanolic acid",
+      "phenoxyethanol"
+    ],
+    "price": 29.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0095",
+    "name": "Mesoestetic Resurfacing Peel Booster Professional Use Only",
+    "type": "skincare",
+    "category": "peel",
+    "product_url": "https://www.lookfantastic.com/mesoestetic-resurfacing-peel-booster/11865095.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycolic acid",
+      "salicylic acid",
+      "ammonium hydroxide",
+      "sodium hydroxide",
+      "hydroxyethylcellulose"
+    ],
+    "price": 55.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0096",
+    "name": "Flexus Moisturizing Cream",
+    "type": "skincare",
+    "category": "moisturizer",
+    "product_url": "https://www.lookfantastic.com/flexus-moisturizing-cream/11865096.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycerin",
+      "glyceryl stearate",
+      "isopropyl myristate",
+      "cetearyl alcohol",
+      "dimethicone",
+      "phenoxyethanol"
+    ],
+    "price": 16.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0097",
+    "name": "Veet Hair Removal Cream - Silk & Fresh - Sensitive Skin",
+    "type": "skincare",
+    "category": "hair removal",
+    "product_url": "https://www.lookfantastic.com/veet-hair-removal-cream-sensitive/11865097.html",
+    "clean_ingredients": [
+      "aqua",
+      "urea",
+      "potassium thioglycolate",
+      "paraffinum liquidum",
+      "cetearyl alcohol",
+      "calcium hydroxide",
+      "talc",
+      "aloe barbadensis leaf juice",
+      "parfum"
+    ],
+    "price": 6.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0098",
+    "name": "Cuccio Naturale Milk & Honey Butter Blend",
+    "type": "body care",
+    "category": "body butter",
+    "product_url": "https://www.lookfantastic.com/cuccio-milk-honey-butter-blend/11865098.html",
+    "clean_ingredients": [
+      "aqua",
+      "cyclopentasiloxane",
+      "c12-15 alkyl benzoate",
+      "isopropy palmitate",
+      "polyacrylamide",
+      "honey extract",
+      "milk extract",
+      "fragrance"
+    ],
+    "price": 19.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0099",
+    "name": "MARC JACOBS DAISY DREAM - Eau De Toilette",
+    "type": "fragrance",
+    "category": "eau de toilette",
+    "product_url": "https://www.lookfantastic.com/marc-jacobs-daisy-dream-edt/11865099.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "ethylhexyl methoxycinnamate",
+      "diethylamino hydroxybenzoyl hexyl benzoate",
+      "limonene",
+      "linalool",
+      "citronellol"
+    ],
+    "price": 58.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0100",
+    "name": "SESDERMA C-VIT Facial Liposomal Serum Anti-Oxidant",
+    "type": "skincare",
+    "category": "serum",
+    "product_url": "https://www.lookfantastic.com/sesderma-c-vit-liposomal-serum/11865100.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycerin",
+      "propylene glycol",
+      "propanediol",
+      "ascorbyl glucoside",
+      "ginkgo biloba leaf extract",
+      "morus alba root extract",
+      "sodium hyaluronate"
+    ],
+    "price": 41.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0101",
+    "name": "Bernard Cassiere Bamboo-Aloe Vera High Hydration Cream",
+    "type": "skincare",
+    "category": "cream",
+    "product_url": "https://www.lookfantastic.com/bernard-cassiere-bamboo-cream/11865101.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycerin",
+      "bambusa arundinacea stem extract",
+      "aloe barbadensis leaf juice",
+      "caprylic/capric triglyceride",
+      "cetearyl alcohol",
+      "sodium hyaluronate"
+    ],
+    "price": 43.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0102",
+    "name": "Palmer's COCOA BUTTER Formula SKIN THERAPY OIL-FACE",
+    "type": "skincare",
+    "category": "face oil",
+    "product_url": "https://www.lookfantastic.com/palmers-cocoa-butter-face-oil/11865102.html",
+    "clean_ingredients": [
+      "sesamum indicum seed oil",
+      "isopropyl myristate",
+      "prunus amygdalus dulcis oil",
+      "theobroma cacao seed butter",
+      "tocopheryl acetate",
+      "centella asiatica extract",
+      "argania spinosa kernel oil"
+    ],
+    "price": 14.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0103",
+    "name": "O'nelle Anti Acne Face Wash Combats Acne",
+    "type": "skincare",
+    "category": "cleanser",
+    "product_url": "https://www.lookfantastic.com/onelle-anti-acne-face-wash/11865103.html",
+    "clean_ingredients": [
+      "aqua",
+      "sodium lauryl ether sulfate",
+      "cocamidopropyl betaine",
+      "melaleuca alternifolia leaf oil",
+      "salicylic acid",
+      "glycerin",
+      "citric acid"
+    ],
+    "price": 9.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0104",
+    "name": "SHISEIDO GINZA TOKYO BB for sports - Wetforce Quick dry",
+    "type": "makeup",
+    "category": "bb cream",
+    "product_url": "https://www.lookfantastic.com/shiseido-bb-for-sports/11865104.html",
+    "clean_ingredients": [
+      "isododecane",
+      "water",
+      "diisopropyl sebacate",
+      "alcohol denat.",
+      "zinc oxide",
+      "titanium dioxide",
+      "ethylhexyl methoxycinnamate",
+      "dimethicone"
+    ],
+    "price": 34.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0105",
+    "name": "Cetaphil DAM Daily Advanced Ultra Lotion",
+    "type": "skincare",
+    "category": "moisturizer",
+    "product_url": "https://www.lookfantastic.com/cetaphil-dam-daily-advanced-lotion/11865105.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycerin",
+      "isopropyl palmitate",
+      "helianthus annuus seed oil",
+      "cetearyl alcohol",
+      "ceteareth-20",
+      "dimethicone",
+      "panthenol",
+      "tocopheryl acetate"
+    ],
+    "price": 16.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0106",
+    "name": "PALMER'S Skin Success Eventone Fade Milk",
+    "type": "body care",
+    "category": "body lotion",
+    "product_url": "https://www.lookfantastic.com/palmers-skin-success-fade-milk/11865106.html",
+    "clean_ingredients": [
+      "water",
+      "glyceryl stearate",
+      "mineral oil",
+      "propylene glycol",
+      "stearic acid",
+      "niacinamide",
+      "theobroma cacao seed butter",
+      "licorice root extract"
+    ],
+    "price": 8.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0107",
+    "name": "KODOMO Toothpaste",
+    "type": "oral care",
+    "category": "toothpaste",
+    "product_url": "https://www.lookfantastic.com/kodomo-toothpaste/11865107.html",
+    "clean_ingredients": [
+      "sorbitol",
+      "hydrated silica",
+      "water",
+      "sodium lauryl sulfate",
+      "flavor",
+      "cellulose gum",
+      "sodium fluoride",
+      "sodium saccharin"
+    ],
+    "price": 3.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0108",
+    "name": "Colgate Max Fresh with Cooling Crystals Red Gel Toothpaste",
+    "type": "oral care",
+    "category": "toothpaste",
+    "product_url": "https://www.lookfantastic.com/colgate-max-fresh-toothpaste/11865108.html",
+    "clean_ingredients": [
+      "sorbitol",
+      "water",
+      "hydrated silica",
+      "sodium lauryl sulfate",
+      "aroma",
+      "peg-12",
+      "cellulose gum",
+      "sodium fluoride",
+      "menthol"
+    ],
+    "price": 4.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0109",
+    "name": "Head and Shoulder Anti Dandruff Shampoo - Smooth and Silky",
+    "type": "hair care",
+    "category": "shampoo",
+    "product_url": "https://www.lookfantastic.com/head-and-shoulders-smooth-silky/11865109.html",
+    "clean_ingredients": [
+      "water",
+      "sodium lauryl sulfate",
+      "sodium laureth sulfate",
+      "glycol distearate",
+      "zinc carbonate",
+      "sodium chloride",
+      "zinc pyrithione",
+      "cocamidopropyl betaine"
+    ],
+    "price": 5.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0110",
+    "name": "Sunsilk Perfect Straight Shampoo",
+    "type": "hair care",
+    "category": "shampoo",
+    "product_url": "https://www.lookfantastic.com/sunsilk-perfect-straight-shampoo/11865110.html",
+    "clean_ingredients": [
+      "water",
+      "sodium laureth sulfate",
+      "cocamidopropyl betaine",
+      "dimethiconol",
+      "sodium chloride",
+      "parfum",
+      "hydrolyzed soy protein",
+      "citric acid"
+    ],
+    "price": 5.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0111",
+    "name": "Shiseido Essential Energy Moisturizing Cream",
+    "type": "skincare",
+    "category": "moisturizer",
+    "product_url": "https://www.lookfantastic.com/shiseido-essential-energy-cream/11865111.html",
+    "clean_ingredients": [
+      "water",
+      "dimethicone",
+      "glycerin",
+      "alcohol denat.",
+      "butylene glycol",
+      "trehalose",
+      "ammonium acryloyldimethyltaurate",
+      "citrus unshiu peel extract"
+    ],
+    "price": 52.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0112",
+    "name": "Chloe Love Story Eau De Parfum - Natural Spray",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/chloe-love-story-edp/11865112.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "limonene",
+      "benzyl salicylate",
+      "alpha-isomethyl ionone",
+      "linalool",
+      "hydroxycitronellal"
+    ],
+    "price": 76.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0113",
+    "name": "Davidoff Cool Water Intense Eau De Parfum - Natural Spray",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/davidoff-cool-water-intense-edp/11865113.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "aqua",
+      "parfum",
+      "coumarin",
+      "limonene",
+      "linalool",
+      "citronellol",
+      "geraniol"
+    ],
+    "price": 55.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0114",
+    "name": "Bio Balance Facial Cream",
+    "type": "skincare",
+    "category": "moisturizer",
+    "product_url": "https://www.lookfantastic.com/bio-balance-facial-cream/11865114.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycerin",
+      "caprylic/capric triglyceride",
+      "cetearyl alcohol",
+      "niacinamide",
+      "panthenol",
+      "tocopheryl acetate",
+      "allantoin"
+    ],
+    "price": 14.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0115",
+    "name": "Sothys Paris Reconstructive Youth Serum",
+    "type": "skincare",
+    "category": "serum",
+    "product_url": "https://www.lookfantastic.com/sothys-reconstructive-youth-serum/11865115.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycerin",
+      "butylene glycol",
+      "pentylene glycol",
+      "peptides",
+      "sodium hyaluronate",
+      "citric acid",
+      "phenoxyethanol"
+    ],
+    "price": 95.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0116",
+    "name": "Gelish Soak Off Gel Polish - Scandalous",
+    "type": "nail care",
+    "category": "gel polish",
+    "product_url": "https://www.lookfantastic.com/gelish-scandalous-gel-polish/11865116.html",
+    "clean_ingredients": [
+      "di-hema trimethylhexyl dicarbamate",
+      "hydroxypropyl methacrylate",
+      "hema",
+      "hydroxycyclohexyl phenyl ketone",
+      "pigments",
+      "violet 2"
+    ],
+    "price": 16.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0117",
+    "name": "Dettol Hygiene Sensitive Wet Wipes",
+    "type": "body care",
+    "category": "wipes",
+    "product_url": "https://www.lookfantastic.com/dettol-hygiene-wipes/11865117.html",
+    "clean_ingredients": [
+      "aqua",
+      "propylene glycol",
+      "peg-40 hydrogenated castor oil",
+      "benzalkonium chloride",
+      "tetrasodium edta",
+      "citric acid"
+    ],
+    "price": 3.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0118",
+    "name": "Godrej Expert Hair Colour Crème - Dark Brown",
+    "type": "hair care",
+    "category": "hair color",
+    "product_url": "https://www.lookfantastic.com/godrej-expert-hair-colour-dark-brown/11865118.html",
+    "clean_ingredients": [
+      "water",
+      "ethanolamine",
+      "cetearyl alcohol",
+      "ceteareth-20",
+      "p-phenylenediamine",
+      "resorcinol",
+      "amla extract"
+    ],
+    "price": 5.49,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0119",
+    "name": "Sisili Hand Sanitizer (Alcohol Based)",
+    "type": "body care",
+    "category": "hand sanitizer",
+    "product_url": "https://www.lookfantastic.com/sisili-hand-sanitizer/11865119.html",
+    "clean_ingredients": [
+      "isopropyl alcohol",
+      "aqua",
+      "glycerin",
+      "carbomer",
+      "triethanolamine",
+      "fragrance"
+    ],
+    "price": 4.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0120",
+    "name": "Pharmaceris Specialist Hair Growth Stimulating Shampoo",
+    "type": "hair care",
+    "category": "shampoo",
+    "product_url": "https://www.lookfantastic.com/pharmaceris-h-stimufast-shampoo/11865120.html",
+    "clean_ingredients": [
+      "aqua",
+      "sodium laureth sulfate",
+      "cocamidopropyl betaine",
+      "caffeine",
+      "niacinamide",
+      "panthenol",
+      "sodium chloride",
+      "citric acid"
+    ],
+    "price": 16.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0121",
+    "name": "Jovees 24 Carat Gold Eye Contour Gel",
+    "type": "skincare",
+    "category": "eye cream",
+    "product_url": "https://www.lookfantastic.com/jovees-gold-eye-contour-gel/11865121.html",
+    "clean_ingredients": [
+      "aqua",
+      "gold leaf",
+      "aloe barbadensis extract",
+      "cucumis sativus extract",
+      "glycerin",
+      "carbomer",
+      "phenoxyethanol"
+    ],
+    "price": 18.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0122",
+    "name": "NeoStrata Resurface Glycolic Renewal Smoothing Cream",
+    "type": "skincare",
+    "category": "cream",
+    "product_url": "https://www.lookfantastic.com/neostrata-resurface-glycolic-cream/11865122.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycolic acid",
+      "octyldodecyl neopentanoate",
+      "glyceryl stearate",
+      "peg-100 stearate",
+      "propylene glycol",
+      "ammonium hydroxide",
+      "arginine"
+    ],
+    "price": 37.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0123",
+    "name": "Flos-Lek Laboratorium Lip Care Protective Lip Stick",
+    "type": "skincare",
+    "category": "lip care",
+    "product_url": "https://www.lookfantastic.com/flos-lek-protective-lip-stick/11865123.html",
+    "clean_ingredients": [
+      "ricinus communis seed oil",
+      "petrolatum",
+      "ozokerite",
+      "cera alba",
+      "isopropyl myristate",
+      "butyrospermum parkii butter",
+      "tocopheryl acetate"
+    ],
+    "price": 5.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0124",
+    "name": "Himalaya Purifying Neem Peel Off Mask",
+    "type": "skincare",
+    "category": "mask",
+    "product_url": "https://www.lookfantastic.com/himalaya-neem-peel-off-mask/11865124.html",
+    "clean_ingredients": [
+      "aqua",
+      "polyvinyl alcohol",
+      "alcohol denat.",
+      "melia azadirachta leaf extract",
+      "curcuma longa root extract",
+      "glycerin",
+      "parfum"
+    ],
+    "price": 6.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0125",
+    "name": "Ellgy Plus Cracked Heel Cream",
+    "type": "skincare",
+    "category": "foot cream",
+    "product_url": "https://www.lookfantastic.com/ellgy-plus-cracked-heel-cream/11865125.html",
+    "clean_ingredients": [
+      "water",
+      "saccharide isomerate",
+      "cetearyl alcohol",
+      "urea",
+      "propylene glycol",
+      "isopropyl myristate",
+      "portulaca oleracea extract"
+    ],
+    "price": 11.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0126",
+    "name": "M.A.C Matte Lipstick - Flat Out Fabulous",
+    "type": "makeup",
+    "category": "lipstick",
+    "product_url": "https://www.lookfantastic.com/mac-matte-lipstick-flat-out-fabulous/11865126.html",
+    "clean_ingredients": [
+      "octyldodecanol",
+      "ricinus communis seed oil",
+      "silica",
+      "tricaprylyl citrate",
+      "ozokerite",
+      "isononyl isononanoate",
+      "paraffin",
+      "ci 45410"
+    ],
+    "price": 22.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0127",
+    "name": "Versace Yellow Diamond Eau De Toilette",
+    "type": "fragrance",
+    "category": "eau de toilette",
+    "product_url": "https://www.lookfantastic.com/versace-yellow-diamond-edt/11865127.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "limonene",
+      "benzyl salicylate",
+      "alpha-isomethyl ionone",
+      "geraniol",
+      "citronellol"
+    ],
+    "price": 59.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0128",
+    "name": "Clarins Men Nettoyant Exfoliating Cleanser 2 in 1",
+    "type": "skincare",
+    "category": "cleanser",
+    "product_url": "https://www.lookfantastic.com/clarins-men-exfoliating-cleanser/11865128.html",
+    "clean_ingredients": [
+      "aqua",
+      "sodium laureth sulfate",
+      "cellulose",
+      "cocamidopropyl betaine",
+      "acrylates copolymer",
+      "glycerin",
+      "sodium hydroxide"
+    ],
+    "price": 26.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0129",
+    "name": "Hermes - Terre D'Hermes Eau Intense Vetiver Eau De Parfum",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/hermes-terre-d-hermes-vetiver-edp/11865129.html",
+    "clean_ingredients": [
+      "alcohol",
+      "parfum",
+      "aqua",
+      "limonene",
+      "hydroxycitronellal",
+      "citronellol",
+      "alpha-isomethyl ionone",
+      "geraniol"
+    ],
+    "price": 98.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0130",
+    "name": "Noreva-Xerodiane Ap+ Gentle Foaming Gel",
+    "type": "skincare",
+    "category": "cleanser",
+    "product_url": "https://www.lookfantastic.com/noreva-xerodiane-ap-cleansing-gel/11865130.html",
+    "clean_ingredients": [
+      "aqua",
+      "sodium laureth sulfate",
+      "glycerin",
+      "disodium cocoamphodiacetate",
+      "sodium chloride",
+      "citric acid",
+      "sodium benzoate"
+    ],
+    "price": 17.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0131",
+    "name": "Colgate Maxfresh with Cooling Crystals Mint Toothpaste",
+    "type": "oral care",
+    "category": "toothpaste",
+    "product_url": "https://www.lookfantastic.com/colgate-maxfresh-mint-toothpaste/11865131.html",
+    "clean_ingredients": [
+      "sorbitol",
+      "water",
+      "hydrated silica",
+      "sodium lauryl sulfate",
+      "aroma",
+      "peg-12",
+      "cellulose gum",
+      "sodium fluoride"
+    ],
+    "price": 4.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0132",
+    "name": "Old Spice Wolfthorn Deodorant Body Spray",
+    "type": "body care",
+    "category": "deodorant",
+    "product_url": "https://www.lookfantastic.com/old-spice-wolfthorn-spray/11865132.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "butane",
+      "isobutane",
+      "propane",
+      "parfum",
+      "methyl cyclodextrin",
+      "aqua",
+      "limonene",
+      "linalool"
+    ],
+    "price": 4.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0133",
+    "name": "Boro Plus Aloe Vera Milk Cream Moisturizing Body Lotion",
+    "type": "body care",
+    "category": "body lotion",
+    "product_url": "https://www.lookfantastic.com/boroplus-aloe-vera-lotion/11865133.html",
+    "clean_ingredients": [
+      "aqua",
+      "paraffinum liquidum",
+      "isopropyl myristate",
+      "glycerin",
+      "cetearyl alcohol",
+      "aloe barbadensis leaf extract",
+      "milk extract"
+    ],
+    "price": 6.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0134",
+    "name": "Lux Bright Glow Rose & Vitamin E Bathing Bar",
+    "type": "body care",
+    "category": "soap",
+    "product_url": "https://www.lookfantastic.com/lux-bright-glow-soap/11865134.html",
+    "clean_ingredients": [
+      "sodium palmate",
+      "sodium palm kernelate",
+      "water",
+      "glycerin",
+      "parfum",
+      "rosa gallica flower extract",
+      "tocopheryl acetate",
+      "sodium chloride"
+    ],
+    "price": 1.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0135",
+    "name": "Star Nail Ultra Clear Monomer Liquid Blue",
+    "type": "nail care",
+    "category": "monomer",
+    "product_url": "https://www.lookfantastic.com/star-nail-monomer-liquid/11865135.html",
+    "clean_ingredients": [
+      "ethyl methacrylate",
+      "peg-4 dimethacrylate",
+      "hydroxypropyl methacrylate",
+      "ethyl acetate",
+      "violet 2"
+    ],
+    "price": 24.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0136",
+    "name": "Olay Total Effects 7 in One Day Cream Normal SPF 15",
+    "type": "skincare",
+    "category": "moisturizer",
+    "product_url": "https://www.lookfantastic.com/olay-total-effects-day-cream/11865136.html",
+    "clean_ingredients": [
+      "water",
+      "glycerin",
+      "ethylhexyl salicylate",
+      "niacinamide",
+      "butyl methoxydibenzoylmethane",
+      "octocrylene",
+      "phenylbenzimidazole sulfonic acid",
+      "panthenol"
+    ],
+    "price": 16.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0137",
+    "name": "Adidas Dynamic Pulse Shower Gel",
+    "type": "body care",
+    "category": "shower gel",
+    "product_url": "https://www.lookfantastic.com/adidas-dynamic-pulse-shower-gel/11865137.html",
+    "clean_ingredients": [
+      "aqua",
+      "sodium laureth sulfate",
+      "cocamidopropyl betaine",
+      "sodium chloride",
+      "parfum",
+      "sodium benzoate",
+      "citric acid",
+      "menthol"
+    ],
+    "price": 3.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0138",
+    "name": "Farmasi Hera Eau De Parfum for Women",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/farmasi-hera-edp/11865138.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "benzyl salicylate",
+      "limonene",
+      "linalool",
+      "hydroxycitronellal",
+      "citronellol"
+    ],
+    "price": 28.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0139",
+    "name": "Kenzo Homme Eau De Parfum",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/kenzo-homme-edp/11865139.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "alpha-isomethyl ionone",
+      "coumarin",
+      "limonene",
+      "linalool",
+      "citronellol"
+    ],
+    "price": 72.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0140",
+    "name": "Clogard Fresh Blast Icy Mint Mouth Wash",
+    "type": "oral care",
+    "category": "mouthwash",
+    "product_url": "https://www.lookfantastic.com/clogard-fresh-blast-mouthwash/11865140.html",
+    "clean_ingredients": [
+      "aqua",
+      "sorbitol",
+      "propylene glycol",
+      "poloxamer 407",
+      "sodium lauryl sulfate",
+      "aroma",
+      "sodium fluoride",
+      "menthol"
+    ],
+    "price": 5.25,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0141",
+    "name": "Calvin Klein Defy Eau De Toilette",
+    "type": "fragrance",
+    "category": "eau de toilette",
+    "product_url": "https://www.lookfantastic.com/calvin-klein-defy-edt/11865141.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "limonene",
+      "linalool",
+      "coumarin",
+      "citronellol",
+      "citral"
+    ],
+    "price": 55.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0142",
+    "name": "CK All Eau De Toilette",
+    "type": "fragrance",
+    "category": "eau de toilette",
+    "product_url": "https://www.lookfantastic.com/ck-all-edt/11865142.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "aqua",
+      "parfum",
+      "limonene",
+      "linalool",
+      "butylphenyl methylpropional",
+      "geraniol"
+    ],
+    "price": 42.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0143",
+    "name": "Lancome L'Absolu Gloss Sheer Mirror Shine Pearly Color",
+    "type": "makeup",
+    "category": "lip gloss",
+    "product_url": "https://www.lookfantastic.com/lancome-labsolu-gloss-sheer/11865143.html",
+    "clean_ingredients": [
+      "polybutene",
+      "tridecyl trimellitate",
+      "octyldodecanol",
+      "silica dimethyl silylate",
+      "calcium sodium borosilicate",
+      "synthetic fluorphlogopite",
+      "ci 77891"
+    ],
+    "price": 24.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0144",
+    "name": "Lifebuoy Strong & Long Herbal Shampoo",
+    "type": "hair care",
+    "category": "shampoo",
+    "product_url": "https://www.lookfantastic.com/lifebuoy-strong-long-shampoo/11865144.html",
+    "clean_ingredients": [
+      "aqua",
+      "sodium laureth sulfate",
+      "cocamidopropyl betaine",
+      "dimethiconol",
+      "sodium chloride",
+      "aloe barbadensis leaf extract",
+      "parfum"
+    ],
+    "price": 4.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0145",
+    "name": "Vaseline Healthy Brighter Sun Protection Lotion",
+    "type": "body care",
+    "category": "body lotion",
+    "product_url": "https://www.lookfantastic.com/vaseline-sun-protection-lotion/11865145.html",
+    "clean_ingredients": [
+      "aqua",
+      "isopropyl myristate",
+      "stearic acid",
+      "glyceryl stearate",
+      "ethylhexyl methoxycinnamate",
+      "glycerin",
+      "niacinamide",
+      "butyl methoxydibenzoylmethane"
+    ],
+    "price": 7.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0146",
+    "name": "Bvlgari BLV Pour Homme Eau De Toilette",
+    "type": "fragrance",
+    "category": "eau de toilette",
+    "product_url": "https://www.lookfantastic.com/bvlgari-blv-pour-homme-edt/11865146.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "aqua",
+      "parfum",
+      "limonene",
+      "linalool",
+      "coumarin",
+      "citral",
+      "geraniol"
+    ],
+    "price": 68.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0147",
+    "name": "Eventone 4Reveral Face Wash",
+    "type": "skincare",
+    "category": "cleanser",
+    "product_url": "https://www.lookfantastic.com/eventone-face-wash/11865147.html",
+    "clean_ingredients": [
+      "aqua",
+      "sodium lauryl ether sulfate",
+      "cocamidopropyl betaine",
+      "glycerin",
+      "kojic acid dipalmitate",
+      "citric acid",
+      "parfum"
+    ],
+    "price": 10.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0148",
+    "name": "Jovees De-Tan-Face Wash",
+    "type": "skincare",
+    "category": "cleanser",
+    "product_url": "https://www.lookfantastic.com/jovees-de-tan-face-wash/11865148.html",
+    "clean_ingredients": [
+      "aqua",
+      "ammonium lauryl sulfate",
+      "glycolic acid",
+      "aloe barbadensis leaf extract",
+      "capsicum annuum extract",
+      "melaleuca alternifolia oil"
+    ],
+    "price": 9.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0149",
+    "name": "Flos-Lek Pharma Spot Lightening Toner",
+    "type": "skincare",
+    "category": "toner",
+    "product_url": "https://www.lookfantastic.com/flos-lek-spot-lightening-toner/11865149.html",
+    "clean_ingredients": [
+      "aqua",
+      "propylene glycol",
+      "glycerin",
+      "arctostaphylos uva ursi leaf extract",
+      "panthenol",
+      "citric acid",
+      "polysorbate 20"
+    ],
+    "price": 14.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0150",
+    "name": "Dove Intense Repair Shampoo",
+    "type": "hair care",
+    "category": "shampoo",
+    "product_url": "https://www.lookfantastic.com/dove-intense-repair-shampoo/11865150.html",
+    "clean_ingredients": [
+      "water",
+      "sodium laureth sulfate",
+      "glycol distearate",
+      "cocamidopropyl betaine",
+      "sodium chloride",
+      "dimethiconol",
+      "parfum",
+      "glycerin",
+      "carbomer"
+    ],
+    "price": 5.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0151",
+    "name": "Photonic Max Shampoo",
+    "type": "hair care",
+    "category": "shampoo",
+    "product_url": "https://www.lookfantastic.com/photonic-max-shampoo/11865151.html",
+    "clean_ingredients": [
+      "aqua",
+      "sodium lauroyl sarcosinate",
+      "cocamidopropyl betaine",
+      "decyl glucoside",
+      "panthenol",
+      "hydrolyzed keratin",
+      "citric acid"
+    ],
+    "price": 18.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0152",
+    "name": "Palmers Cocoa Butter Formula Daily Skin Therapy",
+    "type": "body care",
+    "category": "body lotion",
+    "product_url": "https://www.lookfantastic.com/palmers-cocoa-butter-lotion/11865152.html",
+    "clean_ingredients": [
+      "water",
+      "theobroma cacao extract",
+      "glyceryl stearate",
+      "petrolatum",
+      "propylene glycol",
+      "glycerin",
+      "cocos nucifera oil",
+      "mineral oil"
+    ],
+    "price": 6.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0153",
+    "name": "Genomask Facial Mask with Vitamin C and Hyaluronic Acid",
+    "type": "skincare",
+    "category": "mask",
+    "product_url": "https://www.lookfantastic.com/genomask-facial-mask/11865153.html",
+    "clean_ingredients": [
+      "aqua",
+      "ascorbyl glucoside",
+      "sodium hyaluronate",
+      "glycerin",
+      "polyvinyl alcohol",
+      "phenoxyethanol",
+      "ethylhexylglycerin"
+    ],
+    "price": 28.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0154",
+    "name": "Head & Shoulder Anti Dandruff Shampoo Smooth & Silky",
+    "type": "hair care",
+    "category": "shampoo",
+    "product_url": "https://www.lookfantastic.com/head-shoulders-smooth-silky-shampoo/11865154.html",
+    "clean_ingredients": [
+      "water",
+      "sodium lauryl sulfate",
+      "sodium laureth sulfate",
+      "glycol distearate",
+      "zinc carbonate",
+      "sodium chloride",
+      "zinc pyrithione",
+      "dimethicone"
+    ],
+    "price": 5.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0155",
+    "name": "Adidas Pure Game Deo Body Spray",
+    "type": "body care",
+    "category": "deodorant",
+    "product_url": "https://www.lookfantastic.com/adidas-pure-game-deo/11865155.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "butane",
+      "isobutane",
+      "propane",
+      "parfum",
+      "propylene glycol",
+      "limonene",
+      "linalool",
+      "citronellol"
+    ],
+    "price": 3.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0156",
+    "name": "Farmasi Top Coat Glossy Nail Color",
+    "type": "nail care",
+    "category": "top coat",
+    "product_url": "https://www.lookfantastic.com/farmasi-glossy-top-coat/11865156.html",
+    "clean_ingredients": [
+      "ethyl acetate",
+      "butyl acetate",
+      "cellulose acetate butyrate",
+      "isopropyl alcohol",
+      "acetyl tributyl citrate",
+      "acrylates copolymer"
+    ],
+    "price": 7.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0157",
+    "name": "Jovees Sun Cover SPF 30",
+    "type": "skincare",
+    "category": "sunscreen",
+    "product_url": "https://www.lookfantastic.com/jovees-sun-cover-spf30/11865157.html",
+    "clean_ingredients": [
+      "aqua",
+      "octyl methoxycinnamate",
+      "titanium dioxide",
+      "benzophenone-3",
+      "zinc oxide",
+      "aloe barbadensis extract",
+      "isopropyl myristate"
+    ],
+    "price": 13.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0158",
+    "name": "LuvEsence Mandarin Blossom Anti-Perspirant Deodorant",
+    "type": "body care",
+    "category": "deodorant",
+    "product_url": "https://www.lookfantastic.com/luvesence-mandarin-deodorant/11865158.html",
+    "clean_ingredients": [
+      "aqua",
+      "aluminum chlorohydrate",
+      "steareth-2",
+      "steareth-21",
+      "parfum",
+      "citrus nobilis peel oil",
+      "phenoxyethanol"
+    ],
+    "price": 6.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0159",
+    "name": "Crème 21 Body Lotion Normal Skin (Soft & Hydro Fresh)",
+    "type": "body care",
+    "category": "body lotion",
+    "product_url": "https://www.lookfantastic.com/creme-21-body-lotion/11865159.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycerin",
+      "isopropyl palmitate",
+      "cetearyl alcohol",
+      "glyceryl stearate",
+      "prunus amygdalus dulcis oil",
+      "dimethicone",
+      "carbomer"
+    ],
+    "price": 8.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0160",
+    "name": "Burberry Her London Dream Eau De Parfum",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/burberry-her-london-dream-edp/11865160.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "limonene",
+      "hydroxycitronellal",
+      "geraniol",
+      "linalool",
+      "citral"
+    ],
+    "price": 78.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0161",
+    "name": "Old Spice Original After Shave Lotion",
+    "type": "body care",
+    "category": "aftershave",
+    "product_url": "https://www.lookfantastic.com/old-spice-original-after-shave/11865161.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "water",
+      "propylene glycol",
+      "parfum",
+      "benzyl benzoate",
+      "benzyl cinnamate",
+      "citronellol",
+      "limonene",
+      "linalool"
+    ],
+    "price": 9.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0162",
+    "name": "Giorgio Armani Si Passione Eau De Parfum",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/giorgio-armani-si-passione-edp/11865162.html",
+    "clean_ingredients": [
+      "alcohol",
+      "parfum",
+      "aqua",
+      "alpha-isomethyl ionone",
+      "limonene",
+      "benzyl salicylate",
+      "benzyl alcohol",
+      "linalool"
+    ],
+    "price": 85.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0163",
+    "name": "Bigen Men's Beard Color Cream - Natural Black",
+    "type": "hair care",
+    "category": "beard color",
+    "product_url": "https://www.lookfantastic.com/bigen-mens-beard-color/11865163.html",
+    "clean_ingredients": [
+      "water",
+      "ethanolamine",
+      "cetearyl alcohol",
+      "p-phenylenediamine",
+      "resorcinol",
+      "m-aminophenol",
+      "sodium sulfite"
+    ],
+    "price": 10.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0164",
+    "name": "Dior Sauvage Eau De Toilette",
+    "type": "fragrance",
+    "category": "eau de toilette",
+    "product_url": "https://www.lookfantastic.com/dior-sauvage-edt/11865164.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "limonene",
+      "linalool",
+      "butyl methodoxydibenzoylmethane",
+      "citronellol",
+      "coumarin"
+    ],
+    "price": 77.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0165",
+    "name": "Bvlgari Omnia Amethyste Eau De Toilette",
+    "type": "fragrance",
+    "category": "eau de toilette",
+    "product_url": "https://www.lookfantastic.com/bvlgari-omnia-amethyste-edt/11865165.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "butylphenyl methylpropional",
+      "alpha-isomethyl ionone",
+      "geraniol",
+      "limonene",
+      "linalool"
+    ],
+    "price": 69.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0166",
+    "name": "Gucci Memoire D'une Odeur Eau De Parfum",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/gucci-memoire-edp/11865166.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "benzyl salicylate",
+      "alpha-isomethyl ionone",
+      "linalool",
+      "geraniol",
+      "citronellol"
+    ],
+    "price": 73.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0167",
+    "name": "Issey Miyake Fusion D'issey Eau De Toilette",
+    "type": "fragrance",
+    "category": "eau de toilette",
+    "product_url": "https://www.lookfantastic.com/issey-miyake-fusion-dissey-edt/11865167.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "limonene",
+      "linalool",
+      "butyl methodoxydibenzoylmethane",
+      "coumarin",
+      "citronellol"
+    ],
+    "price": 62.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0168",
+    "name": "Boss Hugo Boss Bottled Unlimited Eau De Toilette",
+    "type": "fragrance",
+    "category": "eau de toilette",
+    "product_url": "https://www.lookfantastic.com/boss-bottled-unlimited-edt/11865168.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "aqua",
+      "parfum",
+      "ethylhexyl methoxycinnamate",
+      "diethylamino hydroxybenzoyl hexyl benzoate",
+      "limonene",
+      "linalool",
+      "benzyl salicylate"
+    ],
+    "price": 59.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0169",
+    "name": "Wella Professional Invigo Nutri Enrich Deep Nourishing Mask",
+    "type": "hair care",
+    "category": "hair mask",
+    "product_url": "https://www.lookfantastic.com/wella-professionals-invigo-nutri-enrich-mask/11865169.html",
+    "clean_ingredients": [
+      "aqua",
+      "stearyl alcohol",
+      "behentrimonium chloride",
+      "cetyl alcohol",
+      "isopropyl alcohol",
+      "bis-aminopropyl dimethicone",
+      "parfum",
+      "panthenol",
+      "tocopheryl acetate"
+    ],
+    "price": 19.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0170",
+    "name": "Panda Baby Floral Baby Cologne",
+    "type": "fragrance",
+    "category": "cologne",
+    "product_url": "https://www.lookfantastic.com/panda-baby-floral-cologne/11865170.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "aqua",
+      "parfum",
+      "peg-40 hydrogenated castor oil",
+      "propylene glycol"
+    ],
+    "price": 4.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0171",
+    "name": "Aroma Magic Strawberry Face Wash",
+    "type": "skincare",
+    "category": "cleanser",
+    "product_url": "https://www.lookfantastic.com/aroma-magic-strawberry-face-wash/11865171.html",
+    "clean_ingredients": [
+      "aqua",
+      "sodium lauryl sarcosinate",
+      "cocamidopropyl betaine",
+      "fragaria ananassa fruit extract",
+      "glycerin",
+      "citric acid"
+    ],
+    "price": 8.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0172",
+    "name": "Keune Care Color Brillianz Conditioning Spray",
+    "type": "hair care",
+    "category": "hair spray",
+    "product_url": "https://www.lookfantastic.com/keune-care-color-brillianz-spray/11865172.html",
+    "clean_ingredients": [
+      "aqua",
+      "amodimethicone",
+      "cetrimonium chloride",
+      "polysorbate 20",
+      "parfum",
+      "citric acid",
+      "tocopheryl acetate"
+    ],
+    "price": 21.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0173",
+    "name": "Sebamed Clear Face Pimple Gel",
+    "type": "skincare",
+    "category": "treatment",
+    "product_url": "https://www.lookfantastic.com/sebamed-clear-face-pimple-gel/11865173.html",
+    "clean_ingredients": [
+      "aqua",
+      "alcohol denat.",
+      "glycerin",
+      "polysorbate 20",
+      "propylene glycol",
+      "panthenol",
+      "allantoin",
+      "bisabolol"
+    ],
+    "price": 9.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0174",
+    "name": "Parfums De Marly Delina Royal Essence Eau De Parfum",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/parfums-de-marly-delina-edp/11865174.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "limonene",
+      "linalool",
+      "citronellol",
+      "geraniol",
+      "alpha-isomethyl ionone"
+    ],
+    "price": 215.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0175",
+    "name": "Olay Natural Aura Glowing Radiance Cream",
+    "type": "skincare",
+    "category": "moisturizer",
+    "product_url": "https://www.lookfantastic.com/olay-natural-aura-cream/11865175.html",
+    "clean_ingredients": [
+      "water",
+      "glycerin",
+      "ethylhexyl salicylate",
+      "niacinamide",
+      "butyl methoxydibenzoylmethane",
+      "titanium dioxide",
+      "isopropyl isostearate"
+    ],
+    "price": 12.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0176",
+    "name": "Enchanteur Perfumed Deo Roll On - Romantic",
+    "type": "body care",
+    "category": "deodorant",
+    "product_url": "https://www.lookfantastic.com/enchanteur-romantic-roll-on/11865176.html",
+    "clean_ingredients": [
+      "aqua",
+      "aluminum chlorohydrate",
+      "steareth-2",
+      "steareth-21",
+      "parfum",
+      "ethylhexylglycerin",
+      "benzyl salicylate",
+      "citronellol"
+    ],
+    "price": 4.25,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0177",
+    "name": "Farmasi No.70 for Men Eau De Parfum",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/farmasi-no.70-men-edp/11865177.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "limonene",
+      "linalool",
+      "coumarin",
+      "citronellol",
+      "geraniol"
+    ],
+    "price": 29.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0178",
+    "name": "Sunsilk Thick & Long Shampoo",
+    "type": "hair care",
+    "category": "shampoo",
+    "product_url": "https://www.lookfantastic.com/sunsilk-thick-long-shampoo/11865178.html",
+    "clean_ingredients": [
+      "water",
+      "sodium laureth sulfate",
+      "cocamidopropyl betaine",
+      "dimethiconol",
+      "sodium chloride",
+      "parfum",
+      "hydrolyzed keratin",
+      "citric acid"
+    ],
+    "price": 5.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0179",
+    "name": "Clinique Anti Blemish Solutions Cleansing Foam",
+    "type": "skincare",
+    "category": "cleanser",
+    "product_url": "https://www.lookfantastic.com/clinique-anti-blemish-cleansing-foam/11865179.html",
+    "clean_ingredients": [
+      "water",
+      "glycerin",
+      "butylene glycol",
+      "sodium methyl cocoyl taurate",
+      "salicylic acid",
+      "sucrose",
+      "disodium edta"
+    ],
+    "price": 25.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0180",
+    "name": "Romano Gentleman Deodorant Roll-On",
+    "type": "body care",
+    "category": "deodorant",
+    "product_url": "https://www.lookfantastic.com/romano-gentleman-roll-on/11865180.html",
+    "clean_ingredients": [
+      "aqua",
+      "aluminum chlorohydrate",
+      "ppg-15 stearyl ether",
+      "steareth-2",
+      "steareth-21",
+      "parfum",
+      "phenoxyethanol"
+    ],
+    "price": 4.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0181",
+    "name": "Montblanc Explorer Eau De Parfum",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/montblanc-explorer-edp/11865181.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "limonene",
+      "hydroxycitronellal",
+      "citronellol",
+      "coumarin",
+      "geraniol"
+    ],
+    "price": 68.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0182",
+    "name": "UVE Block SPF 30 Dry Touch Cream",
+    "type": "skincare",
+    "category": "sunscreen",
+    "product_url": "https://www.lookfantastic.com/isis-pharma-uveblock-spf30/11865182.html",
+    "clean_ingredients": [
+      "aqua",
+      "ethylhexyl methoxycinnamate",
+      "methylene bis-benzotriazolyl tetramethylbutylphenol",
+      "butyl methoxydibenzoylmethane",
+      "glycerin",
+      "silica"
+    ],
+    "price": 19.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0183",
+    "name": "Kaminomoto Scalp Care Shampoo",
+    "type": "hair care",
+    "category": "shampoo",
+    "product_url": "https://www.lookfantastic.com/kaminomoto-scalp-care-shampoo/11865183.html",
+    "clean_ingredients": [
+      "water",
+      "sodium laureth sulfate",
+      "cocamide dea",
+      "glycol distearate",
+      "kamigen e",
+      "beta-sitosterol",
+      "salicylic acid",
+      "menthol"
+    ],
+    "price": 22.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0184",
+    "name": "Golden Rose Total Cover 2in1 Foundation & Concealer",
+    "type": "makeup",
+    "category": "foundation",
+    "product_url": "https://www.lookfantastic.com/golden-rose-total-cover-foundation/11865184.html",
+    "clean_ingredients": [
+      "aqua",
+      "cyclopentasiloxane",
+      "dimethicone",
+      "butylene glycol",
+      "peg-10 dimethicone",
+      "disteardimonium hectorite",
+      "titanium dioxide",
+      "ci 77491"
+    ],
+    "price": 12.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0185",
+    "name": "Clarins Beauty Flash Balm",
+    "type": "skincare",
+    "category": "treatment",
+    "product_url": "https://www.lookfantastic.com/clarins-beauty-flash-balm/11865185.html",
+    "clean_ingredients": [
+      "aqua",
+      "propylene glycol",
+      "octyldodecanol",
+      "oryza sativa starch",
+      "glycerin",
+      "polysorbate 60",
+      "hamamelis virginiana extract",
+      "algae extract"
+    ],
+    "price": 34.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0186",
+    "name": "Bvlgari Omnia Crystalline Eau De Toilette",
+    "type": "fragrance",
+    "category": "eau de toilette",
+    "product_url": "https://www.lookfantastic.com/bvlgari-omnia-crystalline-edt/11865186.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "limonene",
+      "linalool",
+      "butylphenyl methylpropional",
+      "alpha-isomethyl ionone"
+    ],
+    "price": 65.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0187",
+    "name": "Coach New York Floral Blush Eau De Parfum",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/coach-floral-blush-edp/11865187.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "ethylhexyl salicylate",
+      "butyl methoxydibenzoylmethane",
+      "limonene",
+      "linalool",
+      "citronellol"
+    ],
+    "price": 55.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0188",
+    "name": "Elovera Cream (Vitamin E & Aloe Vera Cream)",
+    "type": "skincare",
+    "category": "cream",
+    "product_url": "https://www.lookfantastic.com/elovera-cream/11865188.html",
+    "clean_ingredients": [
+      "aloe barbadensis leaf extract",
+      "tocopheryl acetate",
+      "allantoin",
+      "liquid paraffin",
+      "glycerin",
+      "cetearyl alcohol",
+      "glyceryl stearate"
+    ],
+    "price": 11.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0189",
+    "name": "Denver Sporting Club Victor Deodorant Body Spray",
+    "type": "body care",
+    "category": "deodorant",
+    "product_url": "https://www.lookfantastic.com/denver-sporting-club-victor/11865189.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "butane",
+      "isobutane",
+      "propane",
+      "parfum",
+      "propylene glycol",
+      "isopropyl myristate",
+      "ethylhexylglycerin"
+    ],
+    "price": 5.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0190",
+    "name": "Oway Hcatalyst Activator for Colouring & Bleaching 20 Volumes 6%",
+    "type": "hair care",
+    "category": "developer",
+    "product_url": "https://www.lookfantastic.com/oway-hcatalyst-20-vol/11865190.html",
+    "clean_ingredients": [
+      "aqua",
+      "hydrogen peroxide",
+      "cetearyl alcohol",
+      "ceteareth-20",
+      "phosphoric acid",
+      "sodium stannate",
+      "disodium edta"
+    ],
+    "price": 18.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0191",
+    "name": "O'nelle Naturals Ceylon Green TEA Perfume Body Lotion",
+    "type": "body care",
+    "category": "body lotion",
+    "product_url": "https://www.lookfantastic.com/onelle-green-tea-lotion/11865191.html",
+    "clean_ingredients": [
+      "aqua",
+      "camellia sinensis leaf extract",
+      "glycerin",
+      "isopropyl myristate",
+      "cetearyl alcohol",
+      "glyceryl stearate",
+      "parfum"
+    ],
+    "price": 12.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0192",
+    "name": "Rexona Motion Sense Anti Perspirant Deodorant Spray - Shower Fresh",
+    "type": "body care",
+    "category": "antiperspirant",
+    "product_url": "https://www.lookfantastic.com/rexona-motionsense-shower-fresh/11865192.html",
+    "clean_ingredients": [
+      "butane",
+      "isobutane",
+      "propane",
+      "aluminum chlorohydrate",
+      "cyclopentasiloxane",
+      "ppg-14 butyl ether",
+      "parfum",
+      "disteardimonium hectorite"
+    ],
+    "price": 3.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0193",
+    "name": "Clarins Men Nettoyant Visage - Active Face Wash",
+    "type": "skincare",
+    "category": "cleanser",
+    "product_url": "https://www.lookfantastic.com/clarins-men-active-face-wash/11865193.html",
+    "clean_ingredients": [
+      "aqua",
+      "sodium laureth sulfate",
+      "cocamidopropyl betaine",
+      "sodium chloride",
+      "parfum",
+      "hierochloe odorata extract",
+      "citric acid"
+    ],
+    "price": 24.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0194",
+    "name": "M.A.C Studio Fix Fluid SPF 15 - NC 40",
+    "type": "makeup",
+    "category": "foundation",
+    "product_url": "https://www.lookfantastic.com/mac-studio-fix-fluid-nc40/11865194.html",
+    "clean_ingredients": [
+      "water",
+      "cyclopentasiloxane",
+      "peg-10 dimethicone",
+      "butylene glycol",
+      "trimethylsiloxysilicate",
+      "dimethicone",
+      "magnesium sulfate",
+      "ci 77492"
+    ],
+    "price": 36.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0195",
+    "name": "Ruveda Herbal Beauty Cream",
+    "type": "skincare",
+    "category": "cream",
+    "product_url": "https://www.lookfantastic.com/ruveda-herbal-beauty-cream/11865195.html",
+    "clean_ingredients": [
+      "aqua",
+      "stearic acid",
+      "glycerin",
+      "isopropyl myristate",
+      "cetyl alcohol",
+      "curcuma longa extract",
+      "azadirachta indica extract"
+    ],
+    "price": 8.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0196",
+    "name": "Noreva-Xerodiane Ap+ Gentle Foaming Gel",
+    "type": "skincare",
+    "category": "cleanser",
+    "product_url": "https://www.lookfantastic.com/noreva-xerodiane-foaming-gel/11865196.html",
+    "clean_ingredients": [
+      "aqua",
+      "sodium laureth sulfate",
+      "glycerin",
+      "coco-glucoside",
+      "glyceryl oleate",
+      "niacinamide",
+      "sodium chloride"
+    ],
+    "price": 16.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0197",
+    "name": "Riffs Party Girl Eau De Parfume",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/riffs-party-girl-edp/11865197.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "benzyl salicylate",
+      "limonene",
+      "linalool",
+      "geraniol"
+    ],
+    "price": 26.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0198",
+    "name": "NeoStrata Resurface Glycolic Renewal Smoothing Lotion",
+    "type": "skincare",
+    "category": "lotion",
+    "product_url": "https://www.lookfantastic.com/neostrata-glycolic-smoothing-lotion/11865198.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycolic acid",
+      "propylene glycol",
+      "stearic acid",
+      "ammonium hydroxide",
+      "glyceryl stearate",
+      "peg-100 stearate"
+    ],
+    "price": 37.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0199",
+    "name": "Flos-Lek Pharma Mild Face Cleansing Gel for Sensitive Skin",
+    "type": "skincare",
+    "category": "cleanser",
+    "product_url": "https://www.lookfantastic.com/flos-lek-mild-face-cleansing-gel/11865199.html",
+    "clean_ingredients": [
+      "aqua",
+      "sodium laureth sulfate",
+      "cocamidopropyl betaine",
+      "glycerin",
+      "panthenol",
+      "allantoin",
+      "citric acid"
+    ],
+    "price": 12.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0200",
+    "name": "Clarins Huile Santal - Santal Treatment Oil",
+    "type": "skincare",
+    "category": "face oil",
+    "product_url": "https://www.lookfantastic.com/clarins-santal-treatment-oil/11865200.html",
+    "clean_ingredients": [
+      "corylus avellana seed oil",
+      "santalum album wood oil",
+      "perfume",
+      "elettaria cardamomum seed oil",
+      "commiphora myrrha oil",
+      "linalool",
+      "limonene"
+    ],
+    "price": 44.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0201",
+    "name": "LuvEsence Mandarin Blossom Bath & Shower Gel",
+    "type": "body care",
+    "category": "shower gel",
+    "product_url": "https://www.lookfantastic.com/luvesence-mandarin-shower-gel/11865201.html",
+    "clean_ingredients": [
+      "aqua",
+      "sodium laureth sulfate",
+      "cocamidopropyl betaine",
+      "glycerin",
+      "citrus nobilis peel extract",
+      "sodium chloride",
+      "parfum"
+    ],
+    "price": 8.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0202",
+    "name": "Nature's Secrets Natural Cosmetics Aloe 95 Skin Soothing Gel",
+    "type": "skincare",
+    "category": "gel",
+    "product_url": "https://www.lookfantastic.com/natures-secrets-aloe-95-gel/11865202.html",
+    "clean_ingredients": [
+      "aloe barbadensis leaf juice",
+      "glycerin",
+      "propylene glycol",
+      "carbomer",
+      "triethanolamine",
+      "phenoxyethanol"
+    ],
+    "price": 9.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0203",
+    "name": "Palmers Olive Oil Formula Leave In Conditioner",
+    "type": "hair care",
+    "category": "conditioner",
+    "product_url": "https://www.lookfantastic.com/palmers-olive-oil-leave-in-conditioner/11865203.html",
+    "clean_ingredients": [
+      "aqua",
+      "olea europaea fruit oil",
+      "cetearyl alcohol",
+      "behentrimonium chloride",
+      "glycerin",
+      "hydrolyzed keratin",
+      "tocopheryl acetate"
+    ],
+    "price": 7.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0204",
+    "name": "Olay Total Effect 7 In One Day Cream Gentle SPF 15",
+    "type": "skincare",
+    "category": "moisturizer",
+    "product_url": "https://www.lookfantastic.com/olay-total-effects-gentle-spf15/11865204.html",
+    "clean_ingredients": [
+      "water",
+      "glycerin",
+      "ethylhexyl salicylate",
+      "niacinamide",
+      "butyl methoxydibenzoylmethane",
+      "octocrylene",
+      "panthenol",
+      "tocopheryl acetate"
+    ],
+    "price": 16.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0205",
+    "name": "Revlon Street Wear Satin Smooth Lipstick - Wicked Brown",
+    "type": "makeup",
+    "category": "lipstick",
+    "product_url": "https://www.lookfantastic.com/revlon-street-wear-lipstick-wicked-brown/11865205.html",
+    "clean_ingredients": [
+      "ricinus communis seed oil",
+      "octyldodecanol",
+      "ozokerite",
+      "isononyl isononanoate",
+      "paraffin",
+      "microcrystalline wax",
+      "ci 77491"
+    ],
+    "price": 6.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0206",
+    "name": "Dior Addict Eau Fraiche - Eau de Toilette",
+    "type": "fragrance",
+    "category": "eau de toilette",
+    "product_url": "https://www.lookfantastic.com/dior-addict-eau-fraiche-edt/11865206.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "limonene",
+      "butyl methodoxydibenzoylmethane",
+      "citronellol",
+      "geraniol",
+      "citral"
+    ],
+    "price": 79.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0207",
+    "name": "Creed Virgin Island Water Eau De Parfum",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/creed-virgin-island-water-edp/11865207.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "limonene",
+      "coumarin",
+      "citral",
+      "linalool",
+      "geraniol"
+    ],
+    "price": 265.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0208",
+    "name": "Wella Professionals Welloxon Perfect Crème Developer 9%",
+    "type": "hair care",
+    "category": "developer",
+    "product_url": "https://www.lookfantastic.com/wella-professionals-welloxon-9-percent/11865208.html",
+    "clean_ingredients": [
+      "aqua",
+      "hydrogen peroxide",
+      "cetearyl alcohol",
+      "ceteareth-20",
+      "phosphoric acid",
+      "sodium stannate",
+      "salicylic acid"
+    ],
+    "price": 14.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0209",
+    "name": "Enchanteur Eua De Cologne - Sensational",
+    "type": "fragrance",
+    "category": "cologne",
+    "product_url": "https://www.lookfantastic.com/enchanteur-sensational-cologne/11865209.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "aqua",
+      "parfum",
+      "propylene glycol",
+      "benzyl salicylate",
+      "citronellol",
+      "geraniol"
+    ],
+    "price": 8.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0210",
+    "name": "Sebamed Fresh Shower",
+    "type": "body care",
+    "category": "body wash",
+    "product_url": "https://www.lookfantastic.com/sebamed-fresh-shower/11865210.html",
+    "clean_ingredients": [
+      "aqua",
+      "disodium laureth sulfosuccinate",
+      "cocamidopropyl betaine",
+      "sodium chloride",
+      "glyceryl laurate",
+      "parfum",
+      "phenoxyethanol"
+    ],
+    "price": 9.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0211",
+    "name": "Parfums De Marly Carlisle Royal Essence Eau De Parfum",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/parfums-de-marly-carlisle-edp/11865211.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "coumarin",
+      "limonene",
+      "linalool",
+      "eugenol",
+      "cinnamal"
+    ],
+    "price": 220.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0212",
+    "name": "Olay Regenerist Micro Sculpting Cream",
+    "type": "skincare",
+    "category": "moisturizer",
+    "product_url": "https://www.lookfantastic.com/olay-regenerist-micro-sculpting-cream/11865212.html",
+    "clean_ingredients": [
+      "water",
+      "glycerin",
+      "isohexadecane",
+      "niacinamide",
+      "isopropyl isostearate",
+      "aluminum starch octenylsuccinate",
+      "nylon-12",
+      "dimethicone",
+      "palmitoyl pentapeptide-4"
+    ],
+    "price": 34.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0213",
+    "name": "Revlon Color N Care Permanent Hair Color Cream - Darkest Brown 3N",
+    "type": "hair care",
+    "category": "hair color",
+    "product_url": "https://www.lookfantastic.com/revlon-color-n-care-3n/11865213.html",
+    "clean_ingredients": [
+      "water",
+      "ethanolamine",
+      "cetearyl alcohol",
+      "propylene glycol",
+      "p-phenylenediamine",
+      "resorcinol",
+      "coconut oil",
+      "sodium sulfite"
+    ],
+    "price": 7.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0214",
+    "name": "Jimmy Choo Blossom Eau De Parfum",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/jimmy-choo-blossom-edp/11865214.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "ethylhexyl methoxycinnamate",
+      "butyl methoxydibenzoylmethane",
+      "limonene",
+      "benzyl salicylate",
+      "citronellol"
+    ],
+    "price": 54.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0215",
+    "name": "Melano CC Rich Moisturizing Cream",
+    "type": "skincare",
+    "category": "cream",
+    "product_url": "https://www.lookfantastic.com/melano-cc-rich-moisturizing-cream/11865215.html",
+    "clean_ingredients": [
+      "water",
+      "glycerin",
+      "ascorbic acid",
+      "tocopheryl acetate",
+      "dipotassium glycyrrhizate",
+      "citrus grandis fruit extract",
+      "butylene glycol"
+    ],
+    "price": 18.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0216",
+    "name": "Clinique Moisture Surge 100H Auto Replenishing Hydrator",
+    "type": "skincare",
+    "category": "moisturizer",
+    "product_url": "https://www.lookfantastic.com/clinique-moisture-surge-100h-50ml/11865216.html",
+    "clean_ingredients": [
+      "water",
+      "dimethicone",
+      "butylene glycol",
+      "glycerin",
+      "trisiloxane",
+      "trehalose",
+      "sucrose",
+      "ammonium acryloyldimethyltaurate",
+      "camellia sinensis leaf extract"
+    ],
+    "price": 42.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0217",
+    "name": "BlanX Intensive Stain Removal Toothpaste",
+    "type": "oral care",
+    "category": "toothpaste",
+    "product_url": "https://www.lookfantastic.com/blanx-intensive-stain-removal/11865217.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycerin",
+      "hydrated silica",
+      "sorbitol",
+      "cellulose gum",
+      "sodium lauryl sulfate",
+      "aroma",
+      "cetraria islandica extract",
+      "sodium fluoride"
+    ],
+    "price": 7.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0218",
+    "name": "Olaplex No 5 Bond Maintenance Conditioner",
+    "type": "hair care",
+    "category": "conditioner",
+    "product_url": "https://www.lookfantastic.com/olaplex-no.5-bond-maintenance-conditioner-250ml/11865218.html",
+    "clean_ingredients": [
+      "water",
+      "cetearyl alcohol",
+      "ppg-3 benzyl ether myristate",
+      "caprylic/capric triglyceride",
+      "cetyl alcohol",
+      "octyldodecyl ricinoleate",
+      "quaternium-91",
+      "divinyldimethicone/dimethicone copolymer",
+      "bis-aminopropyl diglycol dimaleate"
+    ],
+    "price": 28.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0219",
+    "name": "Gucci Guilty Parfum Pour Homme Natural spray",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/gucci-guilty-parfum-pour-homme/11865219.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "limonene",
+      "linalool",
+      "alpha-isomethyl ionone",
+      "coumarin",
+      "citronellol",
+      "geraniol"
+    ],
+    "price": 86.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0220",
+    "name": "Tom Ford Tobacco Oud Eau De Parfum",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/tom-ford-tobacco-oud-edp/11865220.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "water",
+      "coumarin",
+      "eugenol",
+      "linalool",
+      "limonene",
+      "cinnamal"
+    ],
+    "price": 240.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0221",
+    "name": "By Kilian Angels Share Eau De Parfum",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/by-kilian-angels-share-edp/11865221.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "fragrance",
+      "water",
+      "coumarin",
+      "limonene",
+      "cinnamyl alcohol",
+      "cinnamal",
+      "linalool"
+    ],
+    "price": 190.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0222",
+    "name": "Jo Malone London English Pear & Freesia Cologne",
+    "type": "fragrance",
+    "category": "cologne",
+    "product_url": "https://www.lookfantastic.com/jo-malone-london-english-pear-freesia-cologne-30ml/11865222.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "water",
+      "fragrance",
+      "butylphenyl methylpropional",
+      "limonene",
+      "geraniol",
+      "linalool",
+      "benzyl salicylate"
+    ],
+    "price": 55.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0223",
+    "name": "Haruharu Wonder Black Rice Hyaluronic Cream",
+    "type": "skincare",
+    "category": "moisturizer",
+    "product_url": "https://www.lookfantastic.com/haruharu-wonder-black-rice-cream/11865223.html",
+    "clean_ingredients": [
+      "water",
+      "glycerin",
+      "propanediol",
+      "cetearyl alcohol",
+      "oryza sativa extract",
+      "phyllostachys pubescens shoot bark extract",
+      "panax ginseng root extract",
+      "hyaluronic acid"
+    ],
+    "price": 22.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0224",
+    "name": "Shiseido Revitalessence Skin Glow Foundation",
+    "type": "makeup",
+    "category": "foundation",
+    "product_url": "https://www.lookfantastic.com/shiseido-revitalessence-skin-glow-foundation/11865224.html",
+    "clean_ingredients": [
+      "water",
+      "diphenylsiloxy phenyl trimethicone",
+      "titanium dioxide",
+      "glycerin",
+      "isododecane",
+      "niacinamide",
+      "fermented kefir extract",
+      "sodium hyaluronate"
+    ],
+    "price": 50.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0225",
+    "name": "ELIE SAAB ELIXIR EAU DE PARFUM",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/elie-saab-elixir-edp/11865225.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "benzyl salicylate",
+      "linalool",
+      "hydroxycitronellal",
+      "limonene",
+      "geraniol"
+    ],
+    "price": 72.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0226",
+    "name": "Smashbox Photo Finish Illuminate Glow Primer",
+    "type": "makeup",
+    "category": "primer",
+    "product_url": "https://www.lookfantastic.com/smashbox-photo-finish-illuminate-primer/11865226.html",
+    "clean_ingredients": [
+      "water",
+      "glycerin",
+      "caprylic/capric triglyceride",
+      "silica",
+      "mica",
+      "niacinamide",
+      "sodium hyaluronate",
+      "phenoxyethanol"
+    ],
+    "price": 30.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0227",
+    "name": "Gillette Shaving Foam Regular",
+    "type": "body care",
+    "category": "shaving cream",
+    "product_url": "https://www.lookfantastic.com/gillette-shaving-foam-regular/11865227.html",
+    "clean_ingredients": [
+      "aqua",
+      "triethanolamine",
+      "palmitic acid",
+      "stearic acid",
+      "isobutane",
+      "laureth-23",
+      "propane",
+      "parfum"
+    ],
+    "price": 3.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0228",
+    "name": "Nishane Hacivat Extrait De Parfum",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/nishane-hacivat-extrait-de-parfum/11865228.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "limonene",
+      "linalool",
+      "citral",
+      "eugenol",
+      "geraniol"
+    ],
+    "price": 175.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0229",
+    "name": "Bio Oil Dry Gel",
+    "type": "skincare",
+    "category": "moisturizer",
+    "product_url": "https://www.lookfantastic.com/bio-oil-dry-skin-gel-200ml/11865229.html",
+    "clean_ingredients": [
+      "mineral oil",
+      "glycerin",
+      "water",
+      "isostearyl isostearate",
+      "urea",
+      "polysorbate 20",
+      "tocopheryl acetate",
+      "lavandula angustifolia oil"
+    ],
+    "price": 15.29,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0230",
+    "name": "Set Wet - Styling Gel - Casually Cool",
+    "type": "hair care",
+    "category": "hair styling",
+    "product_url": "https://www.lookfantastic.com/set-wet-styling-gel-cool/11865230.html",
+    "clean_ingredients": [
+      "water",
+      "polyquaternium-11",
+      "glycerin",
+      "carbomer",
+      "aminomethyl propanol",
+      "peg-40 hydrogenated castor oil",
+      "parfum"
+    ],
+    "price": 4.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0231",
+    "name": "Tom Ford Black Orchid Eau De Parfum",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/tom-ford-black-orchid-edp-50ml/11865231.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "fragrance",
+      "water",
+      "benzyl salicylate",
+      "linalool",
+      "hydroxycitronellal",
+      "benzyl benzoate",
+      "geraniol",
+      "limonene"
+    ],
+    "price": 102.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0232",
+    "name": "Dolce & Gabbana Light Blue Eau De Toilette",
+    "type": "fragrance",
+    "category": "eau de toilette",
+    "product_url": "https://www.lookfantastic.com/dolce-gabbana-light-blue-edt-50ml/11865232.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "limonene",
+      "citral",
+      "cinnamal",
+      "geraniol",
+      "linalool"
+    ],
+    "price": 62.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0233",
+    "name": "Himani Ayucare Advanced Herbal Toothpaste",
+    "type": "oral care",
+    "category": "toothpaste",
+    "product_url": "https://www.lookfantastic.com/himani-ayucare-toothpaste/11865233.html",
+    "clean_ingredients": [
+      "calcium carbonate",
+      "sorbitol",
+      "water",
+      "silica",
+      "sodium lauryl sulfate",
+      "flavor",
+      "cinnamomum zeylanicum bark oil",
+      "syzygium aromaticum bud oil"
+    ],
+    "price": 3.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0234",
+    "name": "Revlon Super Lustrous The Luscious Mattes - Shameless",
+    "type": "makeup",
+    "category": "lipstick",
+    "product_url": "https://www.lookfantastic.com/revlon-luscious-mattes-lipstick/11865234.html",
+    "clean_ingredients": [
+      "octyldodecanol",
+      "isononyl isononanoate",
+      "ozokerite",
+      "paraffin",
+      "microcrystalline wax",
+      "silica",
+      "moringa oleifera seed oil",
+      "caprylyl glycol"
+    ],
+    "price": 8.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0235",
+    "name": "Cuccio Veneer Base Coat",
+    "type": "nail care",
+    "category": "base coat",
+    "product_url": "https://www.lookfantastic.com/cuccio-veneer-base-coat/11865235.html",
+    "clean_ingredients": [
+      "di-hema trimethylhexyl dicarbamate",
+      "hydroxypropyl methacrylate",
+      "hema",
+      "hydroxycyclohexyl phenyl ketone",
+      "violet 2"
+    ],
+    "price": 14.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0236",
+    "name": "Clarins Supra Serum Lift Remodelant",
+    "type": "skincare",
+    "category": "serum",
+    "product_url": "https://www.lookfantastic.com/clarins-supra-serum-lift-remodelant/11865236.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycerin",
+      "caprylic/capric triglyceride",
+      "butyrospermum parkii butter",
+      "hydroxyethyl acrylate",
+      "plantago lanceolata extract",
+      "sodium hyaluronate"
+    ],
+    "price": 92.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0237",
+    "name": "Shiseido Revitalessence Skin Glow Foundation 160",
+    "type": "makeup",
+    "category": "foundation",
+    "product_url": "https://www.lookfantastic.com/shiseido-revitalessence-foundation-160/11865237.html",
+    "clean_ingredients": [
+      "water",
+      "diphenylsiloxy phenyl trimethicone",
+      "titanium dioxide",
+      "glycerin",
+      "niacinamide",
+      "fermented kefir extract",
+      "sodium hyaluronate"
+    ],
+    "price": 50.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0238",
+    "name": "Olaplex No 4C Bond Maintenance Clarifying Shampoo",
+    "type": "hair care",
+    "category": "shampoo",
+    "product_url": "https://www.lookfantastic.com/olaplex-no.4c-bond-maintenance-clarifying-shampoo-250ml/11865238.html",
+    "clean_ingredients": [
+      "water",
+      "sodium lauroyl methyl isethionate",
+      "cocamidopropyl hydroxysultaine",
+      "sodium cocoyl isethionate",
+      "coco-glucoside",
+      "lauryl glucoside",
+      "bis-aminopropyl diglycol dimaleate",
+      "phenoxyethanol"
+    ],
+    "price": 28.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0239",
+    "name": "Elie Saab Le Parfum Eau De Parfum",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/elie-saab-le-parfum-edp/11865239.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "benzyl salicylate",
+      "linalool",
+      "hexyl cinnamal",
+      "butylphenyl methylpropional",
+      "limonene"
+    ],
+    "price": 68.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0240",
+    "name": "By Kilian Good Girl Gone Bad Eau De Parfum",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/by-kilian-good-girl-gone-bad-edp/11865240.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "fragrance",
+      "water",
+      "citronellol",
+      "linalool",
+      "geraniol",
+      "farnesol",
+      "benzyl benzoate"
+    ],
+    "price": 195.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0241",
+    "name": "Jo Malone London Peony & Blush Suede Cologne",
+    "type": "fragrance",
+    "category": "cologne",
+    "product_url": "https://www.lookfantastic.com/jo-malone-london-peony-blush-suede-cologne-30ml/11865241.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "water",
+      "fragrance",
+      "benzyl salicylate",
+      "alpha-isomethyl ionone",
+      "linalool",
+      "citronellol",
+      "geraniol"
+    ],
+    "price": 55.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0242",
+    "name": "By Kilian Roses On Ice Eau De Parfum",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/by-kilian-roses-on-ice-edp/11865242.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "fragrance",
+      "water",
+      "limonene",
+      "linalool",
+      "citral",
+      "geraniol",
+      "citronellol"
+    ],
+    "price": 185.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0243",
+    "name": "Jo Malone London Lime Basil & Mandarin Cologne",
+    "type": "fragrance",
+    "category": "cologne",
+    "product_url": "https://www.lookfantastic.com/jo-malone-london-lime-basil-mandarin-cologne-30ml/11865243.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "water",
+      "fragrance",
+      "limonene",
+      "butylphenyl methylpropional",
+      "linalool",
+      "hydroxycitronellal",
+      "citral"
+    ],
+    "price": 55.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0244",
+    "name": "Haruharu Wonder Black Rice Moisture Deep Cleansing Oil",
+    "type": "skincare",
+    "category": "cleanser",
+    "product_url": "https://www.lookfantastic.com/haruharu-wonder-cleansing-oil/11865244.html",
+    "clean_ingredients": [
+      "oryza sativa bran oil",
+      "caprylic/capric triglyceride",
+      "helianthus annuus seed oil",
+      "olea europaea fruit oil",
+      "simmondsia chinensis seed oil",
+      "macadamia ternifolia seed oil",
+      "tocopherol"
+    ],
+    "price": 20.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0245",
+    "name": "Keune Style Refresh Dry Shampoo Spray",
+    "type": "hair care",
+    "category": "dry shampoo",
+    "product_url": "https://www.lookfantastic.com/keune-style-refresh-dry-shampoo/11865245.html",
+    "clean_ingredients": [
+      "butane",
+      "isobutane",
+      "propane",
+      "alcohol denat.",
+      "oryza sativa starch",
+      "isopropyl myristate",
+      "parfum",
+      "cetrimonium chloride"
+    ],
+    "price": 19.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0246",
+    "name": "Capri Original Perfumed Cologne Spray",
+    "type": "fragrance",
+    "category": "cologne",
+    "product_url": "https://www.lookfantastic.com/capri-original-cologne/11865246.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "aqua",
+      "parfum",
+      "propylene glycol",
+      "limonene",
+      "linalool",
+      "citral"
+    ],
+    "price": 10.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0247",
+    "name": "Nishane Zenne Extrait De Parfum",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/nishane-zenne-extrait-de-parfum/11865247.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "limonene",
+      "linalool",
+      "citral",
+      "geraniol",
+      "citronellol"
+    ],
+    "price": 185.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0248",
+    "name": "BIODERMA Atoderm Preventive Ultra Nourishing Dermo Consolidating",
+    "type": "skincare",
+    "category": "moisturizer",
+    "product_url": "https://www.lookfantastic.com/bioderma-atoderm-preventive/11865248.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycerin",
+      "mineral oil",
+      "ethylhexyl stearate",
+      "caprylic/capric triglyceride",
+      "sucrose stearate",
+      "niacinamide",
+      "fructooligosaccharides"
+    ],
+    "price": 17.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0249",
+    "name": "SALVATORE FERRAGAMO UOMO EAU DE TOILETTE",
+    "type": "fragrance",
+    "category": "eau de toilette",
+    "product_url": "https://www.lookfantastic.com/salvatore-ferragamo-uomo-edt/11865249.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "parfum",
+      "aqua",
+      "coumarin",
+      "limonene",
+      "linalool",
+      "alpha-isomethyl ionone",
+      "citronellol"
+    ],
+    "price": 54.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0250",
+    "name": "Tom Ford Electric Cherry Eau De Parfum",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/tom-ford-electric-cherry-edp/11865250.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "fragrance",
+      "water",
+      "coumarin",
+      "limonene",
+      "linalool",
+      "cinnamal",
+      "citral"
+    ],
+    "price": 295.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0251",
+    "name": "Yc Whitening Gold Caviar Shower Gel - Moisture Balance",
+    "type": "body care",
+    "category": "shower gel",
+    "product_url": "https://www.lookfantastic.com/yc-whitening-gold-caviar-shower-gel/11865001.html",
+    "clean_ingredients": [
+      "water",
+      "sodium laureth sulfate",
+      "glycerin",
+      "cocamidopropyl betaine",
+      "gold extract",
+      "caviar extract",
+      "sodium chloride",
+      "fragrance",
+      "citric acid"
+    ],
+    "price": 12.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0252",
+    "name": "Yardley Deodorant Roll On - Anti Persirant - English Blossom",
+    "type": "body care",
+    "category": "deodorant",
+    "product_url": "https://www.lookfantastic.com/yardley-deodorant-roll-on-english-blossom/11865002.html",
+    "clean_ingredients": [
+      "aqua",
+      "aluminum chlorohydrate",
+      "steareth-2",
+      "steareth-21",
+      "parfum",
+      "phenoxyethanol",
+      "ethylhexylglycerin",
+      "linalool",
+      "citronellol"
+    ],
+    "price": 5.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0253",
+    "name": "Tresemme Keratin Smooth Shampoo",
+    "type": "hair care",
+    "category": "shampoo",
+    "product_url": "https://www.lookfantastic.com/tresemme-keratin-smooth-shampoo/11865003.html",
+    "clean_ingredients": [
+      "water",
+      "sodium laureth sulfate",
+      "cocamidopropyl betaine",
+      "sodium chloride",
+      "hydrolyzed keratin",
+      "dimethiconol",
+      "parfum",
+      "citric acid",
+      "sodium benzoate"
+    ],
+    "price": 6.75,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0254",
+    "name": "AMELIORATE Transforming Body Lotion 200ml",
+    "type": "skincare",
+    "category": "moisturizer",
+    "product_url": "https://www.lookfantastic.com/ameliorate-transforming-body-lotion-200ml/11865352.html",
+    "clean_ingredients": [
+      "ammonium lactate",
+      "c12-15",
+      "glycerin",
+      "prunus amygdalus dulcis",
+      "ethylhexyl palmitate",
+      "cetearyl alcohol",
+      "glyceryl stearate",
+      "peg-100 stearate",
+      "dimethicon",
+      "hydroxyethyl cellulose",
+      "phenoxyethanol",
+      "cetearyl glucoside",
+      "xanthan gum",
+      "sodium benzoate",
+      "sodium stearoyl glutamate",
+      "tocopheryl acetate",
+      "parfum",
+      "potassium sorbate",
+      "pentylene glycol",
+      "hydrolyzed lactis proteinum",
+      "disodium edta",
+      "lactic acid",
+      "serine",
+      "sodium lactate",
+      "sorbitol",
+      "urea",
+      "linalool",
+      "citronellol",
+      "sodium chloride",
+      "citrus aurantium dulcis",
+      "limonene",
+      "coumarin",
+      "juniperus mexicana oil",
+      "alpha-isomethyl ionone",
+      "allantoin",
+      "pelargonium graveolens extract",
+      "geraniol"
+    ],
+    "price": 22.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0255",
+    "name": "NeoStrata Pigment Controller",
+    "type": "skincare",
+    "category": "treatment",
+    "product_url": "https://www.lookfantastic.com/neostrata-pigment-controller/11865005.html",
+    "clean_ingredients": [
+      "aqua",
+      "acetyl glucosamine",
+      "peg-8",
+      "dimethicone",
+      "butylene glycol",
+      "butyrospermum parkii butter",
+      "octyldodecyl neopentanoate",
+      "glyceryl stearate",
+      "retinol",
+      "citric acid"
+    ],
+    "price": 42.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0256",
+    "name": "Yadley London - London Rose Deodorant Roll On",
+    "type": "body care",
+    "category": "deodorant",
+    "product_url": "https://www.lookfantastic.com/yardley-london-rose-deodorant/11865006.html",
+    "clean_ingredients": [
+      "aqua",
+      "aluminum chlorohydrate",
+      "propylene glycol",
+      "peg-40 hydrogenated castor oil",
+      "parfum",
+      "rosa damascena flower oil",
+      "hydroxycitronellal"
+    ],
+    "price": 4.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0257",
+    "name": "Rexona Anti Perspirant Deodorant Roll On Aloe Vera",
+    "type": "body care",
+    "category": "deodorant",
+    "product_url": "https://www.lookfantastic.com/rexona-aloe-vera-roll-on/11865007.html",
+    "clean_ingredients": [
+      "aqua",
+      "aluminum sesquichlorohydrate",
+      "ppg-15 stearyl ether",
+      "steareth-2",
+      "aloe barbadensis leaf juice",
+      "parfum",
+      "bht"
+    ],
+    "price": 3.49,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0258",
+    "name": "Vaseline Lip Care Total Moisture",
+    "type": "skincare",
+    "category": "lip care",
+    "product_url": "https://www.lookfantastic.com/vaseline-lip-care-total-moisture/11865008.html",
+    "clean_ingredients": [
+      "petrolatum",
+      "microcrystalline wax",
+      "theobroma cacao seed butter",
+      "butyrospermum parkii butter",
+      "perfume"
+    ],
+    "price": 3.25,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0259",
+    "name": "Aquasoft Moisturising Lotion",
+    "type": "skincare",
+    "category": "moisturizer",
+    "product_url": "https://www.lookfantastic.com/aquasoft-moisturising-lotion/11865009.html",
+    "clean_ingredients": [
+      "aqua",
+      "light liquid paraffin",
+      "propylene glycol",
+      "glycerin",
+      "glyceryl stearate",
+      "cetyl alcohol",
+      "isopropyl myristate",
+      "methylparaben"
+    ],
+    "price": 14.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0260",
+    "name": "Cuccio Pro T3 LED/UV Curve Versality Gel - Transparent Pink",
+    "type": "nail care",
+    "category": "gel",
+    "product_url": "https://www.lookfantastic.com/cuccio-pro-t3-led-uv-gel/11865010.html",
+    "clean_ingredients": [
+      "di-hema trimethylhexyl dicarbamate",
+      "isobornyl methacrylate",
+      "hydroxycyclohexyl phenyl ketone",
+      "violet 2",
+      "titanium dioxide"
+    ],
+    "price": 19.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0261",
+    "name": "Cuccio Pedicure Scentual Salt Soak",
+    "type": "body care",
+    "category": "salt soak",
+    "product_url": "https://www.lookfantastic.com/cuccio-pedicure-salt-soak/11865011.html",
+    "clean_ingredients": [
+      "sodium chloride",
+      "sea salt",
+      "fragrance",
+      "glycerin",
+      "aloe barbadensis leaf extract",
+      "ci 42090"
+    ],
+    "price": 16.20,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0262",
+    "name": "Cuccio Naturale Cooling Masque - Shea & Vetiver",
+    "type": "skincare",
+    "category": "masque",
+    "product_url": "https://www.lookfantastic.com/cuccio-cooling-masque/11865012.html",
+    "clean_ingredients": [
+      "aqua",
+      "kaolin",
+      "bentonite",
+      "glycerin",
+      "butyrospermum parkii butter",
+      "vetiveria zizanoides root oil",
+      "menthol",
+      "phenoxyethanol"
+    ],
+    "price": 18.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0263",
+    "name": "Cuccio Naturale Milk & Honey Cuticle Oil",
+    "type": "nail care",
+    "category": "cuticle oil",
+    "product_url": "https://www.lookfantastic.com/cuccio-milk-honey-cuticle-oil/11865013.html",
+    "clean_ingredients": [
+      "safflower seed oil",
+      "sunflower seed oil",
+      "cottonseed oil",
+      "honey extract",
+      "milk extract",
+      "fragrance",
+      "tocopheryl acetate"
+    ],
+    "price": 9.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0264",
+    "name": "CUCCIO Naturale Salt Soak - Milk & Honey",
+    "type": "body care",
+    "category": "salt soak",
+    "product_url": "https://www.lookfantastic.com/cuccio-salt-soak-milk-honey/11865014.html",
+    "clean_ingredients": [
+      "sodium chloride",
+      "magnesium sulfate",
+      "honey",
+      "lactis proteinum",
+      "parfum",
+      "ci 19140"
+    ],
+    "price": 17.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0265",
+    "name": "CUCCIO Naturale Callus Softener",
+    "type": "skincare",
+    "category": "treatment",
+    "product_url": "https://www.lookfantastic.com/cuccio-callus-softener/11865015.html",
+    "clean_ingredients": [
+      "aqua",
+      "potassium hydroxide",
+      "glycerin",
+      "hydroxyethylcellulose",
+      "aloe barbadensis leaf juice"
+    ],
+    "price": 15.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0266",
+    "name": "Cuccio Naturale Micro Exfoliation Scrub",
+    "type": "skincare",
+    "category": "scrub",
+    "product_url": "https://www.lookfantastic.com/cuccio-micro-exfoliation-scrub/11865016.html",
+    "clean_ingredients": [
+      "aqua",
+      "juglans regia shell powder",
+      "cetearyl alcohol",
+      "glycerin",
+      "glyceryl stearate",
+      "butyrospermum parkii butter",
+      "xanthan gum"
+    ],
+    "price": 16.80,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0267",
+    "name": "NeoStrata Clarifying Facial Cleanser",
+    "type": "skincare",
+    "category": "cleanser",
+    "product_url": "https://www.lookfantastic.com/neostrata-clarifying-facial-cleanser/11865017.html",
+    "clean_ingredients": [
+      "aqua",
+      "gluconolactone",
+      "mandelic acid",
+      "sodium c14-16 olefin sulfonate",
+      "cocamidopropyl betaine",
+      "polysorbate 20",
+      "sodium hydroxide"
+    ],
+    "price": 28.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0268",
+    "name": "NeoStrata Ultra Brightening Cleanser",
+    "type": "skincare",
+    "category": "cleanser",
+    "product_url": "https://www.lookfantastic.com/neostrata-ultra-brightening-cleanser/11865018.html",
+    "clean_ingredients": [
+      "aqua",
+      "gluconolactone",
+      "decyl glucoside",
+      "peg-8",
+      "peg-7 glyceryl cocoate",
+      "arctostaphylos uva-ursi leaf extract",
+      "citric acid"
+    ],
+    "price": 31.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0269",
+    "name": "NeoStrata Bionic Face Serum",
+    "type": "skincare",
+    "category": "serum",
+    "product_url": "https://www.lookfantastic.com/neostrata-bionic-face-serum/11865019.html",
+    "clean_ingredients": [
+      "aqua",
+      "butylene glycol",
+      "lactobionic acid",
+      "glycerin",
+      "gluconolactone",
+      "sodium hyaluronate",
+      "retinyl palmitate",
+      "tocopheryl acetate"
+    ],
+    "price": 46.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0270",
+    "name": "NeoStrata Gel Plus",
+    "type": "skincare",
+    "category": "gel",
+    "product_url": "https://www.lookfantastic.com/neostrata-gel-plus/11865020.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycolic acid",
+      "alcohol denat.",
+      "ammonium hydroxide",
+      "polyquaternium-10",
+      "tetrasodium edta"
+    ],
+    "price": 34.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0271",
+    "name": "NeoStrata Oily Skin Solution",
+    "type": "skincare",
+    "category": "solution",
+    "product_url": "https://www.lookfantastic.com/neostrata-oily-skin-solution/11865021.html",
+    "clean_ingredients": [
+      "aqua",
+      "alcohol denat.",
+      "glycolic acid",
+      "propylene glycol",
+      "ammonium hydroxide",
+      "chlorphenesin"
+    ],
+    "price": 30.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0272",
+    "name": "NeoStrata Skin Active Exfoliating Wash",
+    "type": "skincare",
+    "category": "cleanser",
+    "product_url": "https://www.lookfantastic.com/neostrata-skin-active-exfoliating-wash/11865022.html",
+    "clean_ingredients": [
+      "aqua",
+      "gluconolactone",
+      "peg-8",
+      "decyl glucoside",
+      "maltobionic acid",
+      "propylene glycol",
+      "citric acid"
+    ],
+    "price": 38.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0273",
+    "name": "Cuccio Pro Powder Polish - Clear",
+    "type": "nail care",
+    "category": "powder polish",
+    "product_url": "https://www.lookfantastic.com/cuccio-powder-polish-clear/11865023.html",
+    "clean_ingredients": [
+      "polyethylmethacrylate",
+      "polymethyl methacrylate",
+      "benzoyl peroxide",
+      "silica"
+    ],
+    "price": 14.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0274",
+    "name": "Cuccio Naturale Refresh & Revitalize Detox Soak",
+    "type": "body care",
+    "category": "soak",
+    "product_url": "https://www.lookfantastic.com/cuccio-detox-soak/11865024.html",
+    "clean_ingredients": [
+      "sodium chloride",
+      "sodium bicarbonate",
+      "citric acid",
+      "eucalyptus globulus leaf oil",
+      "mentha piperita oil"
+    ],
+    "price": 18.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0275",
+    "name": "Cuccio Pro Powder Polish Dip Original Pink",
+    "type": "nail care",
+    "category": "powder polish",
+    "product_url": "https://www.lookfantastic.com/cuccio-dip-pink/11865025.html",
+    "clean_ingredients": [
+      "polyethylmethacrylate",
+      "polymethyl methacrylate",
+      "benzoyl peroxide",
+      "pigments"
+    ],
+    "price": 14.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0276",
+    "name": "Cuccio Naturale Intense Hydrating Treatment",
+    "type": "skincare",
+    "category": "treatment",
+    "product_url": "https://www.lookfantastic.com/cuccio-intense-hydrating/11865026.html",
+    "clean_ingredients": [
+      "aqua",
+      "butyrospermum parkii butter",
+      "glycerin",
+      "cetearyl alcohol",
+      "vetiveria zizanoides root extract",
+      "tocopherol"
+    ],
+    "price": 21.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0277",
+    "name": "Cuccio Pro Powder Polish - White",
+    "type": "nail care",
+    "category": "powder polish",
+    "product_url": "https://www.lookfantastic.com/cuccio-powder-polish-white/11865027.html",
+    "clean_ingredients": [
+      "polyethylmethacrylate",
+      "polymethyl methacrylate",
+      "benzoyl peroxide",
+      "titanium dioxide"
+    ],
+    "price": 14.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0278",
+    "name": "Creation Lamis Love You Lots Eau De Parfume Spray for Women",
+    "type": "fragrance",
+    "category": "perfume",
+    "product_url": "https://www.lookfantastic.com/creation-lamis-love-you-lots/11865028.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "aqua",
+      "parfum",
+      "alpha-isomethyl ionone",
+      "benzyl salicylate",
+      "citronellol",
+      "geraniol",
+      "limonene",
+      "linalool"
+    ],
+    "price": 16.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0279",
+    "name": "Baby Cheramy Baby Wet Wipes",
+    "type": "baby care",
+    "category": "wipes",
+    "product_url": "https://www.lookfantastic.com/baby-cheramy-wet-wipes/11865029.html",
+    "clean_ingredients": [
+      "aqua",
+      "propylene glycol",
+      "peg-40 hydrogenated castor oil",
+      "phenoxyethanol",
+      "sodium benzoate",
+      "citric acid"
+    ],
+    "price": 2.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0280",
+    "name": "Gold Real Men ARCTIC Deo Spray",
+    "type": "body care",
+    "category": "deodorant",
+    "product_url": "https://www.lookfantastic.com/gold-real-men-arctic-deo/11865030.html",
+    "clean_ingredients": [
+      "butane",
+      "isobutane",
+      "propane",
+      "alcohol denat.",
+      "parfum",
+      "isopropyl myristate",
+      "ethylhexylglycerin"
+    ],
+    "price": 4.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0281",
+    "name": "Secret Crush from Goya Body Spray",
+    "type": "fragrance",
+    "category": "body spray",
+    "product_url": "https://www.lookfantastic.com/goya-secret-crush-body-spray/11865031.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "aqua",
+      "parfum",
+      "propylene glycol",
+      "linalool",
+      "limonene"
+    ],
+    "price": 5.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0282",
+    "name": "Rifresh Face Wash",
+    "type": "skincare",
+    "category": "cleanser",
+    "product_url": "https://www.lookfantastic.com/rifresh-face-wash/11865032.html",
+    "clean_ingredients": [
+      "aqua",
+      "sodium lauryl ether sulfate",
+      "cocamidopropyl betaine",
+      "glycerin",
+      "salicylic acid",
+      "sodium chloride",
+      "parfum"
+    ],
+    "price": 8.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0283",
+    "name": "AXE Signature - Gold - Iced Vetiver & Fresh Lavender Eau De Toilette",
+    "type": "fragrance",
+    "category": "eau de toilette",
+    "product_url": "https://www.lookfantastic.com/axe-signature-gold-edt/11865033.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "aqua",
+      "parfum",
+      "citronellol",
+      "coumarin",
+      "geraniol",
+      "limonene",
+      "linalool"
+    ],
+    "price": 14.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0284",
+    "name": "Cetaphil Gentle Skin Cleanser",
+    "type": "skincare",
+    "category": "cleanser",
+    "product_url": "https://www.lookfantastic.com/cetaphil-gentle-skin-cleanser-473ml/13908196.html",
+    "clean_ingredients": [
+      "aqua",
+      "cetyl alcohol",
+      "propylene glycol",
+      "butylparaben",
+      "methylparaben",
+      "propylparaben",
+      "sodium lauryl sulfate"
+    ],
+    "price": 15.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0285",
+    "name": "AXE Deodorant Body Spray - Dark Temptation",
+    "type": "body care",
+    "category": "deodorant",
+    "product_url": "https://www.lookfantastic.com/axe-dark-temptation-spray/11865035.html",
+    "clean_ingredients": [
+      "alcohol denat.",
+      "butane",
+      "isobutane",
+      "propane",
+      "parfum",
+      "amyl cinnamal",
+      "citronellol",
+      "coumarin"
+    ],
+    "price": 4.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0286",
+    "name": "Cuccio Naturale Deep Dermal Transforming Wrap",
+    "type": "skincare",
+    "category": "treatment",
+    "product_url": "https://www.lookfantastic.com/cuccio-transforming-wrap/11865036.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycerin",
+      "petrolatum",
+      "cetearyl alcohol",
+      "urea",
+      "polysorbate 60",
+      "phenoxyethanol"
+    ],
+    "price": 22.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0287",
+    "name": "Dove Deeply Nourishing Body Wash",
+    "type": "body care",
+    "category": "body wash",
+    "product_url": "https://www.lookfantastic.com/dove-deeply-nourishing-body-wash/11865037.html",
+    "clean_ingredients": [
+      "aqua",
+      "cocamidopropyl betaine",
+      "sodium hydroxypropyl starch phosphate",
+      "lauric acid",
+      "sodium lauroyl glycinate",
+      "sodium lauroyl isethionate",
+      "hydrogenated soybean oil",
+      "sodium chloride",
+      "glycerin"
+    ],
+    "price": 4.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0288",
+    "name": "Dove Go Fresh Anti-Perspirant - Cucumber & Green Tea",
+    "type": "body care",
+    "category": "antiperspirant",
+    "product_url": "https://www.lookfantastic.com/dove-go-fresh-cucumber-ap/11865038.html",
+    "clean_ingredients": [
+      "butane",
+      "isobutane",
+      "propane",
+      "aluminum chlorohydrate",
+      "cyclopentasiloxane",
+      "ppg-14 butyl ether",
+      "parfum",
+      "disteardimonium hectorite"
+    ],
+    "price": 3.75,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0289",
+    "name": "Dove Go Fresh Revive Body Wash - Pomegranate & Lemon Verbena Scent",
+    "type": "body care",
+    "category": "body wash",
+    "product_url": "https://www.lookfantastic.com/dove-revive-body-wash/11865039.html",
+    "clean_ingredients": [
+      "aqua",
+      "cocamidopropyl betaine",
+      "sodium lauroyl isethionate",
+      "glycerin",
+      "parfum",
+      "punica granatum fruit juice",
+      "sodium chloride"
+    ],
+    "price": 4.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0290",
+    "name": "Dove Original - Anti Perspirant",
+    "type": "body care",
+    "category": "antiperspirant",
+    "product_url": "https://www.lookfantastic.com/dove-original-anti-perspirant/11865040.html",
+    "clean_ingredients": [
+      "butane",
+      "isobutane",
+      "propane",
+      "aluminum chlorohydrate",
+      "cyclopentasiloxane",
+      "ppg-14 butyl ether",
+      "parfum",
+      "c12-15 alkyl benzoate"
+    ],
+    "price": 3.75,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0291",
+    "name": "Dove Purely Pampering Coconut with Jasmine Body Wash",
+    "type": "body care",
+    "category": "body wash",
+    "product_url": "https://www.lookfantastic.com/dove-coconut-jasmine-body-wash/11865041.html",
+    "clean_ingredients": [
+      "aqua",
+      "cocamidopropyl betaine",
+      "sodium lauroyl isethionate",
+      "glycerin",
+      "parfum",
+      "cocos nucifera fruit extract",
+      "jasminum officinale flower extract"
+    ],
+    "price": 5.25,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0292",
+    "name": "Dove Purely Pampering Nourishing Body Wash - Shea Butter",
+    "type": "body care",
+    "category": "body wash",
+    "product_url": "https://www.lookfantastic.com/dove-shea-butter-body-wash/11865042.html",
+    "clean_ingredients": [
+      "aqua",
+      "cocamidopropyl betaine",
+      "sodium lauroyl isethionate",
+      "glycerin",
+      "butyrospermum parkii butter",
+      "parfum",
+      "sodium chloride"
+    ],
+    "price": 5.25,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0293",
+    "name": "Dove Go Fresh Pomegranate & Lemon Verbena Anti Perspirant",
+    "type": "body care",
+    "category": "antiperspirant",
+    "product_url": "https://www.lookfantastic.com/dove-pomegranate-ap/11865043.html",
+    "clean_ingredients": [
+      "butane",
+      "isobutane",
+      "propane",
+      "aluminum chlorohydrate",
+      "cyclopentasiloxane",
+      "parfum",
+      "helianthus annuus seed oil"
+    ],
+    "price": 3.75,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0294",
+    "name": "Dove Go Fresh Anti-Perspirant - Grape Fruit & Lemon Grass",
+    "type": "body care",
+    "category": "antiperspirant",
+    "product_url": "https://www.lookfantastic.com/dove-grapefruit-ap/11865044.html",
+    "clean_ingredients": [
+      "butane",
+      "isobutane",
+      "propane",
+      "aluminum chlorohydrate",
+      "cyclopentasiloxane",
+      "parfum",
+      "citrus grandis fruit extract"
+    ],
+    "price": 3.75,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0295",
+    "name": "Dove Beauty Finish - Anti Perspirant",
+    "type": "body care",
+    "category": "antiperspirant",
+    "product_url": "https://www.lookfantastic.com/dove-beauty-finish-ap/11865045.html",
+    "clean_ingredients": [
+      "butane",
+      "isobutane",
+      "propane",
+      "aluminum chlorohydrate",
+      "cyclopentasiloxane",
+      "mica",
+      "parfum",
+      "titanium dioxide"
+    ],
+    "price": 3.75,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0296",
+    "name": "Revlon Nail Enamel - Fuchsia Pink",
+    "type": "nail care",
+    "category": "nail polish",
+    "product_url": "https://www.lookfantastic.com/revlon-nail-enamel-fuchsia/11865046.html",
+    "clean_ingredients": [
+      "ethyl acetate",
+      "butyl acetate",
+      "nitrocellulose",
+      "propyl acetate",
+      "tosylamide/formaldehyde resin",
+      "isopropyl alcohol",
+      "ci 15850"
+    ],
+    "price": 6.99,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0297",
+    "name": "Neotone Serum (ISIS PHARMA)",
+    "type": "skincare",
+    "category": "serum",
+    "product_url": "https://www.lookfantastic.com/isis-pharma-neotone-serum/11865047.html",
+    "clean_ingredients": [
+      "aqua",
+      "glycolic acid",
+      "butylenes glycol",
+      "propandiol",
+      "polysorbate 20",
+      "licorice extract",
+      "ascorbic acid"
+    ],
+    "price": 35.00,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0298",
+    "name": "Neotone Gel",
+    "type": "skincare",
+    "category": "gel",
+    "product_url": "https://www.lookfantastic.com/isis-pharma-neotone-gel/11865048.html",
+    "clean_ingredients": [
+      "aqua",
+      "sodium laureth sulfate",
+      "glycerin",
+      "glycolic acid",
+      "salicylic acid",
+      "sodium hydroxide"
+    ],
+    "price": 24.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0299",
+    "name": "LUX Botanicals Honey & Lotus Body Wash",
+    "type": "body care",
+    "category": "body wash",
+    "product_url": "https://www.lookfantastic.com/lux-botanicals-honey-lotus/11865049.html",
+    "clean_ingredients": [
+      "aqua",
+      "sodium laureth sulfate",
+      "cocamidopropyl betaine",
+      "sodium chloride",
+      "honey",
+      "nelumbo nucifera flower extract",
+      "parfum"
+    ],
+    "price": 4.50,
+    "currency": "GBP"
+  },
+  {
+    "id": "ds0300",
+    "name": "LUX Botanicals Aloe Vera & Camellia Body Wash",
+    "type": "body care",
+    "category": "body wash",
+    "product_url": "https://www.lookfantastic.com/lux-botanicals-aloe-camellia/11865050.html",
+    "clean_ingredients": [
+      "aqua",
+      "sodium laureth sulfate",
+      "cocamidopropyl betaine",
+      "aloe barbadensis leaf juice",
+      "camellia sinensis leaf extract",
+      "parfum"
+    ],
+    "price": 4.50,
+    "currency": "GBP"
+  }
+]

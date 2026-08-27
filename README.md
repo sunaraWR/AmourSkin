@@ -1,6 +1,6 @@
-# SasviSkin AI (Facial Scan Intelligence Platform)
+# AmourSkin (Facial Scan Intelligence Platform)
 
-SasviSkin AI is an end-to-end futuristic facial scanning and skincare recommendation platform. It leverages computer vision (OpenCV) to analyze facial images, combines the results with real-time environmental data (weather, humidity, AQI), and recommends personalized skincare products based on a comprehensive algorithmic scoring system.
+AmourSkin is an end-to-end futuristic facial scanning and skincare recommendation platform. It leverages computer vision (OpenCV) to analyze facial images, combines the results with real-time environmental data (weather, humidity, AQI), and recommends personalized skincare products based on a comprehensive algorithmic scoring system.
 
 ## Project Architecture
 
